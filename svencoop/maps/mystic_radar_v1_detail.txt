@@ -1,0 +1,109 @@
+Wall13_1ba_2       detail/rng/tehdas_seina 			1.0	1.0
+METALSTEP01_256       detail/rng/tehdas_seina 			1.0	1.0
+TrashOnTheF0002       detail/rng/tehdas_seina 			1.0	1.0
+CELLFLOOR01       detail/rng/mokki_kivi4 			1.0	1.0
+Wood29a_       detail/rng/mokki_kivi2 			3.0	3.0
+SubwayWall07_25       detail/rng/mokki_kivi4 			1.0	1.0
+TILE01_256X256       detail/rng/mokki_kivi4 			1.0	1.0
+WOOD29B_B       detail/rng/mokki_kivi4 			2.0	2.0
+tk_doorblue       detail/rng/mokki_kivi4 			1.0	1.0
+Cupboard-door01       detail/rng/mokki_kivi4 			2.0	2.0
+CorridorWall12_       detail/rng/mokki_kivi4 			1.0	1.0
+-0cstrike_mh5tl       detail/rng/mokki_kivi4 			1.0	1.0
+-1cstrike_mh5tl       detail/rng/mokki_kivi4 			1.0	1.0
+tk_doorpanel       detail/rng/mokki_kivi4 			1.0	1.0
+MetalContai0010       detail/rng/mokki_kivi4 			1.0	1.0
+VendingMachine1       detail/rng/tehdas_seina 			1.0	1.0
+Rockwall-excava       detail/rng/mokki_kivi2 			1.0	1.0
+-0cstrike_mr2st       detail/rng/mokki_kivi4 			1.0	1.0
+-1cstrike_mr2st       detail/rng/mokki_kivi4 			1.0	1.0
+Stove01b       detail/rng/mokki_kivi4 			1.0	1.0
+SUBADTORN04_GEN       detail/rng/mokki_kivi4 			1.0	1.0
+Stove02b       detail/rng/mokki_kivi4 			1.0	1.0
+CONCRETEWALL01_       detail/rng/tehdas_seina 			1.0	1.0
+pi_cratesrt       detail/rng/mokki_kivi4 			1.0	1.0
+IronPipe01bc2       detail/rng/tehdas_seina 			1.0	1.0
+PANELS02BC       detail/rng/tehdas_seina 			1.0	1.0
+Brick62a       detail/rng/mokki_kivi4 			1.0	1.0
+Panels01b       detail/rng/tehdas_seina 			1.0	1.0
+Brick61_2_128x1       detail/rng/tehdas_seina3 			1.0	1.0
+-0cstrike_mr2dr       detail/rng/tehdas_seina3			1.0	1.0
+-1cstrike_mr2dr       detail/rng/tehdas_seina3			1.0	1.0
+-0cstrike_we4al       detail/rng/tehdas_seina 			1.0	1.0
+-1cstrike_we4al       detail/rng/tehdas_seina 			1.0	1.0
+cstrike_oe6tnkf       detail/rng/tehdas_seina 			1.0	1.0
+cstrike_oe4vent       detail/rng/mokki_kivi4 			1.0	1.0
+cstrike_fe2sqrs       detail/rng/tehdas_metalli			1.0	1.0
+cstrike_me7caut       detail/rng/mokki_kivi4 			1.0	1.0
+cstrike_we2ribd       detail/rng/tehdas_metalli3 			1.0	1.0
+-0cstrike_mr2st       detail/rng/mokki_seina5			1.0	1.0
+-1cstrike_mr2st       detail/rng/mokki_seina5			1.0	1.0
+cstrike_oe4pnlh       detail/rng/tehdas_seina2 			1.0	1.0
+crete_wallred1       detail/rng/mokki_kivi4 			1.0	1.0
+-0cstrike_mb2gg       detail/rng/tehdas_seina			1.0	1.0
+-1cstrike_mb2gg       detail/rng/tehdas_seina			1.0	1.0
+-2cstrike_mb2gg       detail/rng/tehdas_seina			1.0	1.0
+-0cstrike_me2ri       detail/rng/tehdas_seina			1.0	1.0
+-1cstrike_me2ri       detail/rng/tehdas_seina			1.0	1.0
+cstrike_me2drst       detail/rng/tehdas_seina2			1.0	1.0
+MetalContai0004       detail/rng/tehdas_seina2		1.0	1.0
+-0SILO2_WALL3       detail/rng/tehdas_seina2			1.0	1.0
+-1SILO2_WALL3       detail/rng/tehdas_seina2			1.0	1.0
+-2SILO2_WALL3       detail/rng/tehdas_seina2			1.0	1.0
+C3A1_CRATE3       detail/rng/tehdas_seina2			1.0	1.0
+-0SILO2_P4       detail/rng/tehdas_seina				1.0	1.0
+-1SILO2_P4       detail/rng/tehdas_seina				1.0	1.0
+-2SILO2_P4       detail/rng/tehdas_seina				1.0	1.0
+SILO2_GAD4       detail/rng/tehdas_seina2			1.0	1.0
+WoodBox01_128x2       detail/rng/tehdas_seina3			1.0	1.0
+FIFTIES_CMP4A       detail/rng/tehdas_seina3			1.0	1.0
+FIFTIES_CMP3B2       detail/rng/tehdas_seina3			1.0	1.0
+BABTECH8A       detail/rng/tehdas_seina3			1.0	1.0
+Buttons01a       detail/rng/tehdas_seina3			1.0	1.0
+mokki_romu3       detail/rng/tehdas_seina2			1.0	1.0
+pi_crateret       detail/rng/tehdas_seina5			1.0	1.0
+APARTMENT_E0001       detail/rng/tehdas_seina2			1.0	1.0
+SILO2_WALL1       detail/rng/tehdas_metalli			1.0	1.0
+mokki_romu2       detail/rng/tehdas_seina2			1.0	1.0
+METALPOLE01_128       detail/rng/tehdas_metalli			1.0	1.0
++acstrike_se4sw       detail/rng/tehdas_seina3			1.0	1.0
++0cstrike_se4sw       detail/rng/tehdas_seina3			1.0	1.0
+FENCE01BC       detail/rng/tehdas_seina3			1.0	1.0
+Wood29ba       detail/rng/tehdas_seina3			1.0	1.0
+SILO2_PAN5       detail/rng/tehdas_seina3			1.0	1.0
+Chair01_64x128       detail/rng/tehdas_seina2			1.0	1.0
+OUT_W1DR1       detail/rng/tehdas_seina2			1.0	1.0
+tk_bluedoor       detail/rng/tehdas_seina2			1.0	1.0
+Door50ba       detail/rng/tehdas_seina2			1.0	1.0
+cablewall5red       detail/rng/tehdas_seina5			1.0	1.0
+FIFTIES_MON1B      detail/rng/tehdas_seina			1.0	1.0
+FIFTIES_MON2      detail/rng/tehdas_seina2			1.0	1.0
+FIFTIES_CMP3B     detail/rng/tehdas_seina3			1.0	1.0
+FIFTIES_CEIL01A     detail/rng/tehdas_seina2			1.0	1.0
+FIFTIES_CEIL01C     detail/rng/tehdas_seina2			1.0	1.0
+Brick68ab     detail/rng/tehdas_seina3			1.0	1.0
+MetalGate01_128     detail/rng/tehdas_seina3			1.0	1.0
+Snow01c     detail/rng/p_seina2			1.0	1.0
+Rockwall-excava     detail/rng/p_seina4			1.0	1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

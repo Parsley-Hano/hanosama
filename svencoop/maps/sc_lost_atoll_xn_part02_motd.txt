@@ -1,0 +1,116 @@
+Title:
+    Lost Atoll - Part 2
+
+Description:
+    After bypassing a deadly security system and draining a
+    flooded cafeteria, you find yourselves in the sewage
+    system of this sprawling underground complex.
+
+    The stench is overwhelming, but remaining in the bowels
+    of this place would only mean certain death. You must
+    find a way to climb out of the cavernous pit before you
+    if there is to be any hope of survival.
+
+Date:
+    June, 2020
+
+Filename:
+    sc_lost_atoll_xn_part01.bsp
+    sc_lost_atoll_xn_part02.bsp (this map)
+    sc_lost_atoll_xn_part03.bsp
+
+Author:
+    Michael Kuzel
+
+Email Address:
+    mike@michaelkuzel.com
+
+Additional Credits:
+    Phoenix, for helping me alpha test this thing before
+    subjecting the rest of our group to it. The Gang: Toast,
+    SiberX, Cent, Indiana, and Ace7 for playing practically
+    the entire repository of escape maps available for TFC
+    together as a group over several years: it helped push me
+    to create my own map.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Play Information *
+
+Deathmatch:
+    No
+Teamplay:
+    Yes
+Players required:
+    Two, but more can be helpful
+New sounds:
+    Yes
+New graphics:
+    Yes
+New music:
+    No
+Secrets:
+    Yes, find all six hidden buttons to reveal a 6-digit code
+    needed to access an extra challenge!
+
+* Installation *
+
+Unzip into your svencoop_addon directory.
+
+* Construction *
+
+Base:
+    None
+
+Build Time:
+    About a month and a half of design and mapping, then about
+    two weeks of alpha and beta testing.
+
+Compile Time:
+    About ~5 minutes in total for all three maps on an i5 4670k
+
+Editor(s) used:
+    Worldcraft 3.5
+    Wally
+
+Known issues:
+    Map supports up to 8 players at once without causing spawn issues
+    Flashlight is not necessary but can be helpful!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Hints: check only if you're stuck so as to not spoil yourself! *
+
+Sewage pit:
+    Despite the quality of the water, this is the perfect time
+    for some surfing. That ventilation duct could help ease the
+    pain of failure, but you'll have to be a fan of jumping.
+    Or perhaps a jumping fan?
+
+Waste processing:
+    Not every roller needs to be used on the way to the key.
+    Despite rotating, the rollers are surprisingly easy to stand
+    on. Those fuseboxes look fragile: they keep a door closed,
+    and you from falling. Jump as soon as you land on a roller
+    when starting your way back up.
+
+More in part 3!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Credits *
+
+Map design and construction by Michael Kuzel.
+
+Skybox by "The Chayed/KIIRA".
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Distribution *
+
+Feel free to upload this anywhere you like, or even host it yourself, but do not
+modify the archive contents in any way.
+
+Skybox texture can be reused, but please credit "The Chayed/KIIRA" if you do.
+
+This map is distributed and free to use for non-commercial purposes.

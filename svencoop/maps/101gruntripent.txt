@@ -1,0 +1,9 @@
+RipEnt by: CubicVirtuoso
+Utils used: BSPtwoMAP, Valve Hammer, Nemesis Compile tools, ZHLT
+
+------------------------------------
+
+RipEnt done on January 21/2008 
+Notes: 
+
+Just added multiple spawns, removed the backwards changelevels and added weapons. Fixed some entities to improve gameplay. 

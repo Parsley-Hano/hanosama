@@ -1,0 +1,14 @@
+Rust Lobby
+==========
+
+Select your Rust Island maps:
+-Rust Islands
+-Rust Legacy
+-Rust Mini
+
+Voting times are 10 seconds.
+
+Credits:
+Map redesign and compile - AlexCorruptor
+Voting game logic - CubeMath
+Posters - Neo

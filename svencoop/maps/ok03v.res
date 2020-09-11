@@ -1,0 +1,2 @@
+survivor.wad
+suvivor.wad

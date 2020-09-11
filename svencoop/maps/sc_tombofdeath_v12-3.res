@@ -1,0 +1,10 @@
+maps/sc_tombofdeath_v12-3.res
+maps/sc_tombofdeath_v12-3.bsp
+maps/sc_tombofdeath_v12-3.cfg
+maps/sc_tombofdeath_v12-3_skl.cfg
+maps/sc_tombofdeath_v12-3_motd.txt
+models/sc_tombofdeath/w_suit.mdl
+models/sc_tombofdeath/bloodgonome.mdl
+sound/sc_tombofdeath/tele_die.wav
+sc_tombofdeath_readme.txt
+sc_tombofdeath.wad
