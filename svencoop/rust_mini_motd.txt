@@ -1,0 +1,71 @@
+                                    The Basics
+==============================================
+1) Attack trees and boulders to collect resources
+2) Press the Flashlight button (F by default) to open the Action Menu
+3) Craft a Building Plan (F -> Craft -> Tools) to begin building a base
+4) Collect resources faster by crafting a Hatchet and Pick Axe
+
+
+                                 Building a Base
+==============================================
+- The first part you build must be a "Foundation"
+- Upgrade parts with the "Hammer" tool to strengthen them
+- To place items, press Reload (R by default) while holding the "Building Plan"
+- Place Tool Cupboards to prevent others from building around your base
+- Fuse parts with the Hammer tool if you run out of Build Points
+
+
+                                Building Plan Controls
+==============================================
+Primary Fire = Build structure
+Secondary Fire = Cycle to next structure
+Tertiary Fire = Cycle to previous structure
+Reload = Switch between "Item Placement mode" and "Construction mode"
+
+
+                                  Hammer Controls
+==============================================
+Primary Fire = Repair
+Secondary Fire = Upgrade
+Tertiary Fire = Fuse/Separate
+Reload = Rotate
+
+                                   Chat Commands
+==============================================
+.mode = show current game mode
+.version = show script version
+
+Admin only:
+.save = save structures
+.load = load structures
+.airdrop = spawn a plane to drop supplies
+.apache = spawn an apache
+.item [name] [amount] = give yourself an item (.item "metal door" 2)
+.clean = remove orphaned items from the map
+.nodes = toggle node spawns
+.speed [speed] = change the speed of the day-night cycle
+
+
+                                  Troubleshooting
+==============================================
+1) Actions are delayed, especially the action menu:
+If your actions are delayed, then you got desynced from the server. Rejoin
+the server to fix this. Disabling the minimap and the graphical crafting menu
+can help prevent this.
+
+2) Game crashes with "Fatal Error: Too many decal surfaces!":
+Type "mp_decals 2" in console (without quotes) and restart the game to fix this.
+The default value is 500.
+
+3) Server sometimes is extremely laggy for a while, but otherwise fine.
+Monster AI will trigger this if it gets stuck behind something. Admins can say .lag
+in chat to fix this. Another possibility is everyone is building at the same time.
+The building plan weapon and monsters are the primary sources of lag.
+
+4) Everyone has a high ping:
+The server can't handle the map. Have the server owner try these CVars:
+as_command max_zone_solids 320
+as_command max_zone_nodes 100
+as_command max_zone_bushes 50
+as_command max_zone_monsters 3
+as_command build_points 300

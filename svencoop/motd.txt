@@ -1,0 +1,17 @@
+Welcome To Half-life Survival [Anti-rush+Hardcore]
+
+Rules
+1-Don´t Rush
+2-Don´t MicSpam
+3-Don´t Abuse To Vote
+4-Have Fun
+
+(Plugins)
+-------------------------
+*HARDCORE DIFFICULTY (Always on)
+
+*ChatSounds (to see all sounds type ".listsounds" in console)
+
+*NightVision (to use type ".nightvision" in console)
+
+*Anti-Rush (Always on)

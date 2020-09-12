@@ -1,0 +1,75 @@
+[h1]Report to Opposing Force Campaign on Sven Co-op[/h1]
+
+The [b]Survivial-mode[/b] is disabled on the entire Campaign.
+Also the [b]Keep_inventory[/b] is not enabled.
+That means you'll lose the collected Ammo and Armour.
+Also there are no Checkpoints because the maps are so small.
+The number of Map-Changes is pretty high.
+In other words, many unpleasant [b]Loading-Zones[/b].
+We are suppoust to have a [b]Nightview-Goggles[/b],
+but we only have Flashlights.
+
+The Soundtrack have been replaced with the Half-Life ones.
+At some places an [b]unfitting Soundtrack[/b] will play.
+
+[b]Ropes are missing![/b]
+Some places, where ropes are suppoust to be there,
+are replaced with ladders, platforms,
+a brush as electric wire or simply nothing.
+
+There are many hidden [b]Chumtoads[/b] around the Campaign.
+Well ok, I can deal with it.
+
+Looks like I need to install trigger_once_mp's
+to count people and block rushers until a cretain amount of %.
+(Usually 66% of living people required)
+
+[h1]Mapspecific[/h1]
+
+[b]of0a0 (Incoming)[/b]
+After the crash, everyone died and I spawned
+somewhere in a void with a large rotating rock-donut.
+
+[b]of3a2 (We Are Not Alone)[/b]
+Something on this map causes the Server to crash / restart.
+I have absolutly no clue what exactly causes the crash.
+
+[b]of4a2 (Vicarious Reality)[/b]
+One of the func_pushable is not working to get a Secret Area,
+But you can climb on a teammate to reach the Secret Area.
+
+[b]of4a5 (Vicarious Reality)[/b]
+I was surprized that there was already an Anti-Rush Mechanic installed.
+A bug causes that a door closes for no reason and the people could not progress to the next map.
+A Cheat was required to overwrite the door to open again.
+
+[b]of4a4 (Pit Worm's Nest)[/b]
+An interesting fact is that the Pit Worm have 13371337 Health on it.
+
+[b]of5a2 (Foxtrot Uniform)[/b]
+[i]Nuclear Mission Jam[/i] at the Sewers. WTF?!?!?
+
+[b]of6a4 (The Package)[/b]
+Lets defuse the Nuke and Barney should open a door.
+But the Barney had to disappear and people are one again stuck on the map.
+An another Cheat was required to progress the map.
+
+[b]of6a5 (Worlds Collide)[/b]
+We didnt got a chance to play on this map.
+In other words:
+[b]THE FINAL BOSS GENE WORM IS MISSING![/b]
+[b]THE SAME GOES FOR THE ENDING AFTER THE BOSS![/b]
+Apperantly the Boss is bugged and they skipped the map.
+
+Conclusion:
+A ton of optimizion is required to get OP4 running without rushing and problems.
+I wanna change those Points before get the Campaign running:
+[list]
+  [*]Prevent Server crashes
+  [*]Enable Survivial-Mode (Maybe with Checkpoints)
+  [*]Enable Keep Inventory
+  [*]Add correctly working Soundtrack
+  [*]Add trigger_once_mp's
+  [*]Tons of Bugfixes
+  [*]Get Gene Worm Boss running
+[/list]

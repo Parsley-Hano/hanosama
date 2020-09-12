@@ -1,0 +1,51 @@
+Anti-Rush Server
+
+Default Rules:
+01. Respect other people
+  01a. Don't make discriminatory remarks
+  01b. This also applies to your in-game name
+02. Don't block under any circumstance
+03. No inappropriate Sprays
+  03a. Not even slightly pornographic
+  03b. No offensive sprays
+  03c. No Sex-Jokes / Sex-Templates
+04. No trolling, such as killing teammates
+05. No spamming / micspamming
+  05a. Singing, whistling, playing music or making disgusting noise is also micspamming
+  05b. Don't use a voice changer
+06. Please only use English
+  06a. Ask an Admin if you wanna use other Languages
+07. New players should be helped, not attacked
+08. Enjoy the Game :-)
+
+Additional Rules:
+09. No speedrunning / rushing
+  09a. Don't skip enemies
+  09b. Don't abandon your teammates
+  09c. No skipping
+10. Don't unnecessarily keep other players waiting
+  10a. Many places requires a certain number of people
+  10b. Activate checkpoints when the Area is clear
+11. No bunnyhopping
+12. No Gauss-gun jumping
+13. No Rocket-/Explosives- jumping
+
+Ammo-Dropper
+Write in the Chat: Dropammo
+To drop some ammo of your current weapon.
+You can write like this: Dropammo <primary-count> <secondary-count>
+As Example you have a SMG with AR-Grenades and write: Dropammo 25 3
+You will drop 25 Bullets and 3 AR-Grenades.
+
+Ammo-Dropper
+Write in the Chat: Dropammo
+To drop some ammo of your current weapon.
+You can write like this: Dropammo <primary-count> <secondary-count>
+As Example you have a SMG with AR-Grenades and write: Dropammo 25 3
+You will drop 25 Bullets and 3 AR-Grenades.
+
+Discord:
+https://discord.gg/4aYW2wx
+
+Owner: [url=steamcommunity.com/id/CubeMath] CubeMath[/url]
+Admins: [url=steamcommunity.com/profiles/76561198181653721] Helmet[/url], [url=steamcommunity.com/profiles/76561198012883071] King Diamond[/url], [url=steamcommunity.com/profiles/76561198239675794] Doctor[/url], [url=steamcommunity.com/id/mismikka] Chiki[/url], [url=steamcommunity.com/id/shadow4life] Xxblue_addidasxX[/url], [url=steamcommunity.com/id/drmandela] DrMandela[/url], [url=steamcommunity.com/profiles/76561198000001498] Effor[/url]

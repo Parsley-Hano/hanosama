@@ -1,0 +1,77 @@
+Use this log to record changes. Hand it down to next person after.
+
+==========
+List:
+AdamR - done 
+Aurora - pass
+CryoKeen - done
+Hezus - done
+tu3sday - done
+Silencer/Zyl - done
+Puchi - done
+mr_redman - done
+_RC - done
+SV BOY - no fixes necessary
+===========
+
+10 September 2018 (by AdamR)
+- Made the rising pillars in the 3rd lava chamber much wider.
+- Increased friction in the ice area.
+
+14 September 2018 (by CryoKeen)
+*** trigger_random doesnt work randomly, all the sounds do work when triggered with button
+- Unintentionally raised clip from 98.6% to around 99.7% (SORRY! <3 ;( <3 :) :3)
+- Added more barnacle guns at start and lower and more grapple points
+- Added funky textures to hall way (2mb)
+- Added func_detail beams to elevator area
+- Added glowing bits outside of area
+- Added camera what to do instructions
+- added clip to vault door
+- added info_player_start
+- did a few other things in my section
+- added 2 small wavs: hongkong, dipper
+
+15 October 2018 (by Hezus)
+- Fixed boss counters (Ragemap2018a)
+- Players can now longer enter the machine (Ragemap2018b)
+- Ragecube now spawns halfway when dropped in 2nd part of the machine (Ragemap2018b)
+- Machine entry is now a ramp, since you can't lift the ragecube copy. (same for stairs in the spawn)
+- Removed secret button in my part (Ragemap2018a)
+- Monsters stop spawning after bosses are killed (Ragemap2018a)
+- [general]Performance fixes and extra CLIP.
+- [general]Ragecube required sign is now different colour.
+- [general]Ragecube copy now uses default friction.
+- [Puchi] Ragecube refill now spawns ammo/batteries. (Ragemap2018b)
+- [Puchi] Made a ramp for a copied cube. (Ragemap2018b)
+- [mr_redman] Cars are slower and different speeds. (Ragemap2018a)
+- [mr_redman] Fixed render mode on lights (Ragemap2018a)
+- [Aurora] Increased performance by a lot (better VIS, improved face subdivision, removed surplus ammo/weapons) (Ragemap2018b)
+- [Aurora] Rebalanced difficulty with lower health for all enemies/friendlies, less monsters spawn at once. (Ragemap2018b)
+- [Aurora] Created extra difficulty setting (16+ players). (Ragemap2018b)
+- [Aurora] Robot/Ships have slightly larger hitbox now. (Ragemap2018b)
+- [_RC] Extra lighting in the box zone to light up box models. (Ragemap2018b)
+- [_RC] Added fixed box model. (Ragemap2018b)
+- [Silencer/Zyl] Ladder jumps are easier now. (Ragemap2018a)
+- [Silencer/Zyl] Added minlight to crushers to kinda fix wierd shadows. (Ragemap2018a)
+- [SV_BOY] Added texture light in hallway where ladder is (Ragemap2018a)
+- [SV_BOY] Doors no longer clip through the floor.
+- [AdamR] Game_text now mentions that there are 10 beans to be found.
+- [Keen] Fixed door not staying open.
+- [Keen] Fixed teleporter starting end credits.
+
+17 October 2018 (by Hezus)
+- [general] Fixed climbable ragecube signs.
+- [general] Added updated WAD.
+- [_RC] No longer spawns buckshot ammo to save on visible models.
+- [Aurora] Players will nolonger be locked out of the area after defeating the bosses.
+- [Aurora] Performance fixes.
+- [Aurora] Ammo and explosives now stored in canisters.
+- [Aurora] Overhauled gameplay and balance.
+
+18 October 2018 (by Hezus)
+- Conveyor push now handled by trigger_push (more reliable).
+- Removed belt START/STOP buttons to accomendate for trigger_push.
+- Fixed cube getting stuck on edge in the belt machine.
+- [general] Ragecube copy is now liftable and floats in water.
+- [Aurora] Removed friendly RPG Grunts. 
+- [Aurora] Extra Robogrunts spawn faster (75 instead of 100).

@@ -1,0 +1,130 @@
+Report to Blue Shift Campaign
+
+[h1]General[/h1]
+
+The [b]Survivial-Mode[/b] worked from ba_canal1 after I noticed
+to update the configuration files for each map.
+The maps always gives you a cretain amount of
+Default-Ammo and even some [b]Armour[/b].
+
+The Map-Changes are very [b]frequent[/b] and
+don't need any Respawn-Points.
+
+The [b]Soundtrack[/b] of Half-Life have been
+used here and are [b]not fitting[/b] very well.
+
+[h1]Weapon-Problem![/h1]
+
+The Weapons are [b]not respawning[/b].
+That means, that no more than one person
+can get a Crowbar, Medkit,
+Shotgun, Rocket-Launcher and so on.
+
+Apperantly some Config-Value is not set correctly
+and should being able to fix that quickly.
+
+[b]Classic-Mode[/b] weapons are not aviable on this Chapter.
+And I think we have to [b]Deal with it[/b].
+
+[h1]Multiplayer-Compatibility[/h1]
+
+Some maps are [b]not adapted[/b] properly on Multiplayer.
+Of course I didn't noticed that when
+I was [b]testing[/b] the maps in Singleplayer.
+I am not sure if [i]Install_bshift_Support.bat[/i] overlooked that.
+
+[b]ba_security1[/b]
+Door closed as soon a person passed
+through and trapped the people outside.
+
+[b]ba_yard5a[/b]
+Some details and a ladder disappears as soon
+somebody go through the hole in the gate.
+Also an invisible wall will block the people at the gate.
+
+[b]ba_xen3[/b]
+A Manta-Ray blows up an important island,
+which people need to cross over to progress.
+
+[b]ba_power1[/b]
+Elevator disappeared to preventing Map-Change,
+which it looks pretty ugly.
+
+The grating floor in Secret-Room turned invisible
+as soon as a person leaves the room.
+
+[h1]Other Problems[/h1]
+
+[b]ba_security2[/b]
+Ammo-Respawning should be disabled
+and the elevator needs a 33%-Check (not 66% this time).
+
+[b]ba_yard3[/b]
+A Lambda-Square Texture under the dying Scientist should be invisible.
+
+[b]ba_yard5[/b]
+People can nowhere hide at the beginning.
+
+[b]ba_yard5a[/b]
+Dr. Rosenberg pushes people off when they try to climb on him.
+
+[b]Xen maps[/b]
+Healing-Pools should heal more than 1 HP per tick.
+
+[b]ba_power1[/b]
+A Bullsquid doesn't react to shooting.
+
+[b]ba_power2[/b]
+People can troll with the Coolant-Flooding-System.
+A Human-Tower after the Coolant-Bridge Section can
+skip an entire Section and should be prevented.
+
+[b]ba_power1[/b] from [i]ba_power2[/i]
+This is a big one Problem.
+A 66%-Trigger brings people back to [i]ba_power2[/i]
+as soon they enter [i]ba_power1[/i] from [i]ba_power2[/i].
+
+An attemt to skip [i]ba_power1[/i] to [i]ba_teleport2[/i] failed too.
+Because an env_global havn't got the value that needs to progress.
+
+So I need to [b]skip two maps[/b]: [i]ba_power1[/i] and [i]ba_teleport2[/i].
+We end up on [i]ba_outro[/i], the last map of the Campaign.
+
+[b]ba_outro[/b]
+Survivial-Mode needs to be disabled there.
+
+[h1]Conslusion[/h1]
+
+Half-Life Blue Shift failed the Test-Run and needs to be
+optimized before Blue Shift can be tested again.
+
+Those points needs to be fixed before Blue Shift can be tested again:
+[list]
+  [*]GENERIC - Enable Weapon-Respawning (not Ammo-Respawning)
+  [*]ba_security1 - Door should stay open
+  [*]ba_yard5a - Prevent Details from disappearing
+  [*]ba_yard5a - Remove invisible wall at the Hole in the Gate
+  [*]ba_yard5a - Prevent Rosey from pushing off people
+  [*]ba_xen3 - Prevent Manta-Ray from blowing up the island
+  [*]ba_power1 - Prevent 66%-Trigger from moving back to ba_power2
+[/list]
+
+Those can be fixed after a successful Test-Run:
+[list]
+  [*]GENERIC - Remove Armour from Default-Give at map-spawning
+  [*]ba_security2 - Disable Ammo-Respawning
+  [*]ba_security2 - Add 33%-Check at Elevator
+  [*]ba_yard2 - Add Headcrabs as a Map-Change condition
+  [*]ba_yard3a - Add Padlock and Key
+  [*]ba_yard3 - Turn Lambda-Square Texture invisible
+  [*]ba_xen* - Healing-Pools should heal 10 HP per tick
+  [*]ba_power1 - A func_wall that looks like Elevator
+  [*]ba_power1 - A Bullsquid doesn't react to shooting
+  [*]ba_power1 - Prevent floor in secret room from turning invisible
+  [*]ba_power2 - Prevent Coolant-Flooding-Trolling
+  [*]ba_power2 - Prevent Skipping after Coolant-Bridge Section
+  [*]ba_outro - Disable Survivial-Mode
+[/list]
+
+[b]Thank you[/b] at all, who was playing on the Test-Run
+for helping me tessting the Campaign.

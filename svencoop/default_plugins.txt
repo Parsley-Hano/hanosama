@@ -1,0 +1,155 @@
+//========================================
+//
+//	This file lists all plugins that are loaded by the game
+//	Plugins use Angelscript
+//
+//========================================
+"plugins"
+{
+	"plugin"
+	{
+		"name" "Dropper"
+		"script" "CubeMath/Dropper"
+	}
+	
+//	"plugin"
+//	{
+//		"name" "PlayerManagement"
+//		"script" "admin/PlayerManagement"
+//		"concommandns" "plrmgr"
+//	}
+//	
+//	"plugin"
+//	{
+//		"name" "NetworkBanhammer"
+//		"script" "admin/NetworkBanhammer"
+//		"concommandns" "nban"
+//	}
+//	
+//	"plugin"
+//	{
+//		"name" "AdminSay"
+//		"script" "admin/AdminSay"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "InsultKiller"
+//		"script" "InsultKiller"
+//	}
+	
+	"plugin"
+	{
+		"name" "SinkingShip"
+		"script" "cubemath/SinkingShip2"
+	}
+	
+//	"plugin"
+//	{
+//		"name" "MapChanger"
+//		"script" "admin/MapChanger"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "PlayerDecalTracker"
+//		"script" "admin/PlayerDecalTracker"
+//		"concommandns" "plydecaltrack"
+//	}
+
+	"plugin"
+	{
+		"name" "AFKKick"
+		"script" "admin/KickIdlePlayers"
+		"concommandns" "afkkick"
+	}
+
+//	"plugin"
+//	{
+//		"name" "ChatMessager"
+//		"script" "ChatMessager"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "AntiSpam"
+//		"script" "CubeMath/AntiSpam"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "AntiFlood"
+//		"script" "Zode/AntiFlood"
+//		"concommandns" "antiflood"
+//	}
+	
+	"plugin"
+	{
+		"name" "EntityManager"
+		"script" "EntityManager"
+		"concommandns" "entmngr"
+	}
+	
+//	"plugin"
+//	{
+//		"name" "DynamicDifficulty"
+//		"script" "CubeMath/DynamicDifficulty9"
+//		"concommandns" "dyndiff"
+//	}
+
+	"plugin"
+	{
+		"name" "DynamicDifficulty7"
+		"script" "DynamicDifficulty7"
+	}
+
+	"plugin"
+    	{
+        	"name" "AFBase"
+        	"script" "AFBase"
+    	}  
+
+	"plugin"
+	{
+        	"name" "SimpleGlow"
+        	"script" "Zode/SimpleGlow"
+        	"concommandns" "sglow"
+	}
+
+//    	"plugin"
+//    	{
+//  	 	"name" "ChatSounds"
+//   	 	"script" "ChatSounds"
+//    	}
+
+ 	"plugin"
+   	{
+        	"name" "Nightvision"
+        	"script" "Nightvision"
+    	}
+
+	"plugin"
+	{
+		"name" "SimpleTrail"
+		"script" "Zode/SimpleTrail"
+		"concommandns" "strail"
+	}
+	
+//	"plugin"
+//	{
+//		"name" "Gunganese"
+//		"script" "CubeMath/Gunganese"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "Teleport"
+//		"script" "Teleport"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "Vox"
+//		"script" "Vox"
+//	}
+}

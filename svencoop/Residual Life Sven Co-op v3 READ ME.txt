@@ -1,0 +1,96 @@
+##########################HOW TO INSTALL##########################
+
+Simply move the content of Residual Life Sven Co-op into svencoop_addon 
+folder, thats all, map names could be confusing (because creator decide
+ to make it like that), down I'll let a orden map list.
+ If you find some bug, please let me know, I'll really appreciate. Enjoy.
+ If you want to disable player models force models, just edit every .cfg
+deleting this line:
+forcepmodels cl_scientist1;cl_scientist2;cl_scientist3;cl_scientist4;cl_scientist5;cl_scientist6
+
+Map list:
+
+rk00
+rl00r
+rl00t
+rl00u
+rl00s
+rl00a
+rl00
+rl01
+rl01a
+rl02
+rl02w
+rl02y
+rl02o
+rl02p
+rl02l__ rl02d__rl02e_____rl02c_2_#
+     \				/
+      \_ rl02n__rl02c__________/
+
+#rl02t
+rl02i
+rl02m
+rl02i_2
+rl02h
+rl02k
+rl02j
+rl02r
+
+
+##########################CREDITS##########################
+
+All credits goes to:
+
+Radiation Studios (Original mod creator).
+Sven Co-op developers.
+VALVE SOFTWARE.
+
+
+Sven Co-op Port by Cadaver
+
+Entities help:
+
+Jpolito
+human
+H2Whoa
+Banan2288
+Dynamite
+w00tguy
+Spy-Warrior
+
+Models help:
+
+Slartibarty
+D.N.I.O. 071
+xTakeshi
+
+Res files:
+
+w00tguy
+
+
+Test help:
+
+Sven Co-op Tucumanos community
+Crasher
+D.N.I.O. 071
+Droide-052
+FantacyWorld
+Hola Black Mesa
+Kiwii*SC*
+Lossy
+LuksJ
+Nadia [SC]
+Sannick
+Shoder
+Valkyria
+Xach
+xTakeshi
+[V]alentin_
+Spy-Warrior
+
+*If I miss somebody please let me know and I'll add in the next release, 
+this would not have been possible without you guys, thanks to all.
+
+Contact me: http://steamcommunity.com/id/Cads/
