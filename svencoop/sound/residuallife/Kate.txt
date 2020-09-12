@@ -1,0 +1,7 @@
+"barney/ba_pain1.wav" "residuallife/sentences/otis/ow01.wav"
+"barney/ba_pain2.wav" "residuallife/sentences/otis/ow02.wav"
+"barney/ba_pain3.wav" "residuallife/sentences/otis/pain03.wav"
+
+"barney/ba_die1.wav" "residuallife/sentences/otis/pain09.wav"
+"barney/ba_die2.wav" "residuallife/sentences/otis/pain06.wav"
+"barney/ba_die3.wav" "residuallife/sentences/otis/pain08.wav"

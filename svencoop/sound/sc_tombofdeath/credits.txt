@@ -1,0 +1,15 @@
+
+Credits for sounds used
+***********************
+   ______________
+  / egg_burn.wav \______________________________________________
+ |                                                              |
+ | Origin: Several sound effects of the Poison Headcrab in HL2  |
+ | Changes: Mixed them together using Audacity                  |
+ |______________________________________________________________|
+   ______________
+  / tele_die.wav \______________________________________________
+ |                                                              |
+ | Origin: Sound effect from Opposing Force Displacer weapon    |
+ | Changes: None                                                |
+ |______________________________________________________________|
