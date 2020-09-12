@@ -1,0 +1,6 @@
+5
+weapon			640 poke646/sawedoff	2	0	170	45
+weapon_s		640 poke646/sawedoff	2	0	170	45
+ammo			640 poke646/po_ammo	90	50	24	24
+crosshair		640 poke646/po_crosshairs	48	24	24	24
+autoaim			640 poke646/po_crosshairs	72	72	24	24

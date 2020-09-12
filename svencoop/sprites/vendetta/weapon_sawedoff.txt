@@ -1,0 +1,11 @@
+10
+weapon			320 vendetta/sawedoff	2	0	170	45
+weapon_s		320 vendetta/sawedoff	2	0	170	45
+ammo			320 vendetta/pv_ammo	90	50	24	24
+crosshair		320 vendetta/pv_crosshairs	48	24	24	24
+autoaim			320 vendetta/pv_crosshairs	72	72	24	24
+weapon			640 vendetta/sawedoff	2	0	170	45
+weapon_s		640 vendetta/sawedoff	2	0	170	45
+ammo			640 vendetta/pv_ammo	90	50	24	24
+crosshair		640 vendetta/pv_crosshairs	48	24	24	24
+autoaim			640 vendetta/pv_crosshairs	72	72	24	24

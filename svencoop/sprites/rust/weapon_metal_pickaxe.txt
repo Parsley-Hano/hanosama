@@ -1,0 +1,3 @@
+2
+weapon          640 rust/hud_rust3 0   45   170 45
+weapon_s        640 rust/hud_rust4 0   45   170 45

@@ -1,0 +1,19 @@
+10
+
+// 320x240		res filename    x-pos   y-pos   x-size  y-size
+
+weapon			320 cs16/640hud17	0	90	170	45
+weapon_s		320 cs16/640hud18	0	90	170	45
+ammo			320 cs16/640hud7	0	96	24	24
+crosshair		320 cs16/crosshairs	24	0	24	24
+autoaim			320 cs16/crosshairs	0	72	24	24
+
+// 640x480+		res filename    x-pos   y-pos   x-size  y-size
+
+weapon			640 cs16/640hud17	0	90	170	45
+weapon_s		640 cs16/640hud18	0	90	170	45
+ammo			640 cs16/640hud7	0	96	24	24
+crosshair		640 cs16/crosshairs	256	0	256	256
+autoaim			640 cs16/crosshairs	0	72	24	24
+
+

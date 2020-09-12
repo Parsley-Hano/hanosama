@@ -1,0 +1,30 @@
+#define hat models here
+
+#format guide:
+# path doesnt require models/ or .mdl, they are automagically added
+# static defines name from model name
+#STATIC path
+# use this to define multiple hats from single model that contains submodels
+#DYNAMIC path submodel sequence name
+
+STATIC hats/afro
+STATIC hats/cheesehead
+STATIC hats/headphones
+STATIC hats/jackolantern
+STATIC hats/jamacahat2
+STATIC hats/paperbag
+STATIC hats/santahat
+STATIC hats/shoopdawhoop
+STATIC hats/sumbraro2
+STATIC hats/tophat
+STATIC hats/viking
+DYNAMIC hats/cso_like_costumes_head 0 0 angelhead
+DYNAMIC hats/cso_like_costumes_head 1 1 bazzihead
+DYNAMIC hats/cso_like_costumes_head 2 2 cathead
+DYNAMIC hats/cso_like_costumes_head 3 3 daohead
+DYNAMIC hats/cso_like_costumes_head 4 4 devilhead
+DYNAMIC hats/cso_like_costumes_head 5 5 goldhead
+DYNAMIC hats/cso_like_costumes_head 6 6 pandahead
+DYNAMIC hats/cso_like_costumes_head 7 7 pighead
+DYNAMIC hats/cso_like_costumes_head 8 8 polarbearhead
+DYNAMIC hats/cso_like_costumes_head 9 9 squirrelhead

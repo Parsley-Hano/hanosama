@@ -1,0 +1,34 @@
+@PointClass base(Targetname, Targetx) color(138 140 138) = game_monstercounter : "Counts number of monsters and stores the value"
+[
+	monsterclass(string) : "Monster Classname"
+	alive_or_dead(choices) : "Filter Vital Signs" : 0 =
+	[
+		0: "Ignore"
+		1: "Living only"
+		2: "Dead only"
+	]
+	is_player_ally(choices) : "Filter Enemies" : 0 =
+	[
+		0: "Ignore"
+		1: "Allies only"
+		2: "Enemies only"
+	]
+	restartdelay(string) : "Delay Before Restart" : "1.0"
+	weaponfilter(string) : "Weapon Filter"
+]
+
+@PointClass base(Targetname) color(200 50 0) = trigger_random_position : "Sets a random origin on a target entity"
+[
+	xtolerance(string) : "X Tolerance" : "0"
+	ytolerance(string) : "Y Tolerance" : "0"
+	ztolerance(string) : "Z Tolerance" : "0"
+	random_angles(choices) : "Random Angles?" : 0 =
+	[
+		0: "No"
+		1: "Yes"
+	]
+	targetent(string) : "Target Entity"
+	trigger_after_move(string) : "Trigger After Move"
+]
+
+@PointClass base(Targetname) size(-8 -8 -8, 8 8 8) color(255 255 255) = env_te_teleport : "Quake 1 Teleport Splash Effect" []
