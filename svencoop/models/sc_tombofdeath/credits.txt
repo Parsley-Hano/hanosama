@@ -1,0 +1,51 @@
+
+Credits for models used
+***********************
+   _________________
+  / bloodgonome.mdl \___________________________________________
+ |                                                              |
+ | Origin: Archville model from Resident Evil maps              |
+ | Changes: None                                                |
+ |______________________________________________________________|
+   ____________
+  / licker.mdl \________________________________________________
+ |                                                              |
+ | Origin: Licker model from Resident Evil maps                 |
+ | Changes: None                                                |
+ |______________________________________________________________|
+   _______________
+  / icegonome.mdl \_____________________________________________
+ |                                                              |
+ | Origin: High-Definition Gonome by Ambient.Impact             |
+ | Changes: Skin passed through blue colour filter              |
+ |______________________________________________________________|
+   _____________
+  / generic.mdl \_______________________________________________
+ |                                                              |
+ | Original skin: Opposing Force Male Assassin                  |
+ | Changes: Reskinned using the Sven Co-op "Urban" player skin  |
+ |______________________________________________________________|
+   ______________
+  / pitdrone.mdl \______________________________________________
+ |                                                              |
+ | Origin: Undead Pit Drone reskin by -Rusty-                   |
+ | Changes: None                                                |
+ |______________________________________________________________|
+   ___________________
+  / pitdrone_gibs.mdl \_________________________________________
+ |                                                              |
+ | Origin: Opposing Force Pit Drone gib model                   |
+ | Changes: Reddened skin                                       |
+ |______________________________________________________________|
+   ____________
+  / w_suit.mdl \________________________________________________
+ |                                                              |
+ | Origin: Opposing Force PCV                                   |
+ | Changes: None                                                |
+ |______________________________________________________________|
+   ___________
+  / agibs.mdl \_________________________________________________
+ |                                                              |
+ | Origin: Original non-HD alien gibs model from Half-Life      |
+ | Changes: None                                                |
+ |______________________________________________________________|

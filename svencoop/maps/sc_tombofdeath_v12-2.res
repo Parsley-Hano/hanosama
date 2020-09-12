@@ -1,0 +1,9 @@
+maps/sc_tombofdeath_v12-2.res
+maps/sc_tombofdeath_v12-2.bsp
+maps/sc_tombofdeath_v12-2.cfg
+maps/sc_tombofdeath_v12-2_skl.cfg
+maps/sc_tombofdeath_v12-2_motd.txt
+models/sc_tombofdeath/w_suit.mdl
+models/sc_tombofdeath/bloodgonome.mdl
+sc_tombofdeath_readme.txt
+sc_tombofdeath.wad

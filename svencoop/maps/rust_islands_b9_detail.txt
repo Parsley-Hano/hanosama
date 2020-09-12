@@ -1,0 +1,12 @@
+BOOT_GRASS_06		detail/rust/boot_grass_06		20.0		20.0
+I2SNOW1			detail/dt_snow1				25.0		25.0
+I2SNOW2			detail/rust/I2SNOW2		3.0		3.0
+OUT_SND2B		detail/rust/out_snd2		10.0		10.0
+PRXOUTSAND4A		detail/rust/PRXOUTSAND4A		5.0		5.0
+rust_sea2		detail/rust/out_snd3		0.5		1.0
+PRXOUTSAND2A		detail/rust/PRXOUTSAND4A		5.0		5.0
+
+I2ROCK1A			detail/rust/I2SNOW2		3.0		3.0
+PRXOUTROCK1A			detail/rust/I2SNOW2		3.0		3.0
+PRXOUTROCK2A			detail/rust/I2SNOW2		3.0		3.0
+PRXJUNGLROCK1			detail/rust/I2SNOW2		3.0		3.0

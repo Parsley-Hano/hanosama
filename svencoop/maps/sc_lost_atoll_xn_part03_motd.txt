@@ -1,0 +1,118 @@
+Title:
+    Lost Atoll - Part 3
+
+Description:
+    After scaling the grime-encrusted walls of a deep sewage
+    pit and nimbly bounding back and forth across a waste-
+    reclamation system, you wind up in a storage room.
+
+    Though safe for the moment, the only exit appears to be
+    locked. While assessing your options, you notice the
+    floor is... vibrating? Almost like an otherwordly thrum
+    is shaking the very structure of the immediate area.
+
+Date:
+    June, 2020
+
+Filename:
+    sc_lost_atoll_xn_part01.bsp
+    sc_lost_atoll_xn_part02.bsp
+    sc_lost_atoll_xn_part03.bsp (this map)
+
+Author:
+    Michael Kuzel
+
+Email Address:
+    mike@michaelkuzel.com
+
+Additional Credits:
+    Phoenix, for helping me alpha test this thing before
+    subjecting the rest of our group to it. The Gang: Toast,
+    SiberX, Cent, Indiana, and Ace7 for playing practically
+    the entire repository of escape maps available for TFC
+    together as a group over several years: it helped push me
+    to create my own map.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Play Information *
+
+Deathmatch:
+    No
+Teamplay:
+    Yes
+Players required:
+    Two, but more can be helpful
+New sounds:
+    Yes
+New graphics:
+    Yes
+New music:
+    No
+Secrets:
+    Yes, find all six hidden buttons to reveal a 6-digit code
+    needed to access an extra challenge!
+
+* Installation *
+
+Unzip into your svencoop_addon directory.
+
+* Construction *
+
+Base:
+    None
+
+Build Time:
+    About a month and a half of design and mapping, then about
+    two weeks of alpha and beta testing.
+
+Compile Time:
+    About ~5 minutes in total for all three maps on an i5 4670k
+
+Editor(s) used:
+    Worldcraft 3.5
+    Wally
+
+Known issues:
+    Map supports up to 8 players at once without causing spawn issues
+    Flashlight is not necessary but can be helpful!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Hints: check only if you're stuck so as to not spoil yourself! *
+
+Experiment chamber:
+    Use your teammate(s) to spot for you if you don't have a
+    good vantage point. A light touch might help if precision
+    is needed. You'll encounter resistance at the top: you'll
+    need to be quick.
+
+Reactor core:
+    Some cooling rods are irradiated differently than others:
+    find out what each colour does before attempting anything.
+    Progress is made by standing on the shoulders of giants,
+    though your teammates' shoulders should suffice here.
+
+Bonus challenge:
+    Access the bonus challenge by finding all six hidden buttons
+    across all three maps, and remembering the six-digit code the
+    buttons provide!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Credits *
+
+Map design and construction by Michael Kuzel.
+
+Skybox by "The Chayed/KIIRA".
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Distribution *
+
+Feel free to upload this anywhere you like, or even host it yourself, but do not
+modify the archive contents in any way.
+
+Skybox texture can be reused, but please credit "The Chayed/KIIRA" if you do.
+
+This map is distributed and free to use for non-commercial purposes.

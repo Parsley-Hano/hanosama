@@ -1,0 +1,40 @@
+Mystic Radar: Ascension in Ultra Ferment
+
+Map: RNG   Models: RNG
+Music: RNG   Sounds: RNG
+Zombie sounds lolz: RNG
+Max Payne Textures: Remedy
+Cstrike Textures: Valve   Other Textures: RNG
+Detailtextures: RNG
+Betatest: Poka, Sence, Ixa, Scotsman, Streamfox, cSMG, Cocyx The Skeleton
+
+Version 1.
+
+!!!!!!!!!!!!!!!!!!!!!
+MAKE SURE YOU HAVE R_DETAILTEXTURES 1 AND R_DETAILTEXTURESSUPPORTED 1
+-
+DONT SPOIL STUFF IF YOU HAVE ALREADY PLAYED THOUGH THERES IS RANDOM EVENTS BUT STILL
+
+WAIT FOR OTHERS TO LOAD THE MAP IN BEGINNING AND USE FASTDL
+
+USE OPENGL PLEASE BECAUSE FOG AND DETAILS DOESNT WORK IN D3D
+!!!!!!!!!!!!!!!!!!!!
+
+Deception Island, Antarctica
+
+You are couple of engineers of Ice measurement station on south of the island,
+also being hardcore explorers of large amount of abandoned buildings and villages
+there. once at night you discovered some abandoned station with large radar antennae.
+The station was inaccessible though you had flashlights.
+
+At cold and misty daytime your team
+decided to try explore it again and managed to enter through rusty door to some garage room.
+But suddenly even the flashlights started to darken up at sight and everyone lose their
+conciousness. Later you wake up and notice the door is gone, soon realized than its
+different room somewhere deep inside the station with some rusty bed and shelves,
+also your flashlights are gone somehow. All limbs seems like burning and movement
+is noticeably hard but your group stands up and has a mystery to solve in largely
+icemelt water and mold absorbed place.
+
+
+

@@ -1,0 +1,21 @@
+"models/barney.mdl" "models/vendetta/monsters/barney/barney.mdl"
+"models/scientist.mdl" "models/vendetta/monsters/scientist/scientist.mdl"
+"models/hgrunt.mdl" "models/vendetta/monsters/hgrunt/hgrunt.mdl"
+"models/zombie.mdl" "models/zombie_soldier.mdl"
+"models/gman.mdl" "models/vendetta/monsters/gman/gman.mdl"
+
+"models/crossbow_bolt.mdl" "models/vendetta/items/crossbow_bolt.mdl"
+"models/shotgunshell.mdl" "models/vendetta/items/shotgunshell.mdl"
+"models/grenade.mdl" "models/vendetta/items/grenade.mdl"
+
+"models/w_crossbow_clip.mdl" "models/vendetta/items/w_crossbow_clip.mdl"
+"models/w_shotbox.mdl" "models/vendetta/items/w_shotbox.mdl"
+"models/w_medkit.mdl" "models/vendetta/items/w_medibox.mdl"
+"models/w_mp5_clip.mdl" "models/vendetta/items/w_par21_clip.mdl"
+"models/w_9mmarclip.mdl" "models/vendetta/items/w_par21_clip.mdl"
+
+"models/v_satchel_radio.mdl" "models/vendetta/weapons/pipebomb/v_pipebomb_watch.mdl"
+"models/p_satchel_radio.mdl" "models/vendetta/weapons/pipebomb/p_pipebomb_watch.mdl"
+"models/v_satchel.mdl" "models/vendetta/weapons/pipebomb/v_pipebomb.mdl"
+"models/w_satchel.mdl" "models/vendetta/weapons/pipebomb/w_pipebomb.mdl"
+"models/p_satchel.mdl" "models/vendetta/weapons/pipebomb/p_pipebomb.mdl"

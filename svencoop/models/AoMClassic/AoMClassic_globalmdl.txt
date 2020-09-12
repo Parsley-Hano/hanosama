@@ -1,0 +1,21 @@
+"models/hornet.mdl" "models/AoMClassic/hornet.mdl"
+"models/w_medkit.mdl" "models/AoMClassic/items/w_medkit.mdl"
+"models/w_battery.mdl "models/AoMClassic/items/w_battery.mdl"
+"models/w_9mmclip.mdl" "models/AoMClassic/items/w_berettaclip.mdl"
+"models/w_9mmarclip.mdl" "models/AoMClassic/items/w_ak47clip.mdl"
+"models/w_357ammo.mdl" "models/AoMClassic/items/w_deagleclip.mdl"
+"models/w_357ammobox.mdl" "models/AoMClassic/items/w_deagleclip.mdl"
+
+"sprites/bigspit.spr" "sprites/AoMClassic/bigspit.spr"
+"sprites/blood.spr" "sprites/AoMClassic/blood.spr"
+"sprites/tinyspit.spr" "sprites/AoMClassic/tinyspit.spr"
+"sprites/mommmaspit.spr" "sprites/AoMClassic/mommaspit.spr"
+"sprites/mommmaspout.spr" "sprites/AoMClassic/mommaspout.spr"
+"sprites/shockwave.spr" "sprites/AoMClassic/shockwave.spr"
+"sprites/laserbeam.spr" "sprites/AoMClassic/laserbeam.spr"
+"sprites/muz1.spr" "sprites/AoMClassic/muz1.spr"
+"sprites/muz4.spr" "sprites/AoMClassic/muz4.spr"
+"sprites/muz8.spr" "sprites/AoMClassic/muz8.spr"
+"sprites/xspark4.spr" "sprites/AoMClassic/xspark4.spr"
+
+

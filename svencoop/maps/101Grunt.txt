@@ -1,0 +1,62 @@
+Title		:	101 Grunts
+Filename	:	101Grunt.zip
+Author		:	Jonathan L Gower
+Email		:	jon@jlgower.freeserve.co.uk
+Date Released	:	25th September 1999
+Description	:	3 map single player mission for HalfLife
+Previous Levels	:	None
+
+*Important*
+Use FULL CAPITALS when loading the level otherwise the level changes wont work!
+
+*Play Information*
+
+Game		:	Half-Life (v1.0.0.9 at least)
+Level Names	:	101GRNT1.BSP
+			101GRNT2.BSP
+			101GRNT3.BSP
+Single Player	:	Yes
+Cooperative	:	No
+DeathMatch	:	No
+New Graphics	:	Yes (Rain Sprite by Freon)
+New Sounds	:	No
+Mew Music	:	No
+Prefabs		:	No
+
+*Construction*
+
+Machine		:	PII350, 128M Ram, Voodoo2
+Editor		:	Worldcraft2.0
+Build Time	:	101GRNT1.BSP,QCSG 4s,QBSP 3s,QRAD 18s,Vis 1s
+		:	101GRNT2.BSP,QCSG 7s,QBSP 7s,QRAD 28s,Vis 1s
+		:	101GRNT3.BSP,QCSG 12s,QBSP 21s,QRAD 54s Vis 20s 
+Compile Settings:	BSP all,RAD Normal, Vis Fast
+Known Bugs	:	If you stand under a door and it closes and an 			enemy opens a door also you will get a recuring 			door sound. Also sometimes if you are in a 			battle near an open door and an explosion (ie 			Grenade) goes off it sometimes causes the door 			to close.
+*Installation*
+
+Extract the Zip file to your hardisk. You should then have a directory called 101Grunt. Copy the .BSP files to you HALFLIFE/VALVE/MAPS directory and copy the.NOD and .NRP files to HALFLIFE/VALVE/MAPS/GRAPHS directory. Place the rain.spr file in your HALFLIFE/VALVE/SPRITES directory. In your Halflife shortcut makesure you "-console". Start Halflife, from the console type map 101GRNT1 (NAME IN CAPITALS). you can also set the skill level by typing skill n (n=1,2 or 3)
+
+*Notes*
+This is my first level for Halflife. The reason its called 101 Grunts is because their are 101 grunt enemies in the level. There is also 4 Assassins and some gun turrets. I have made this level because I think fighting the grunts was the best aspect of the gameplay in halflife. This level is by no means perfect. I haven't got the AI as good as the original game but they will take cover, use doors and stairs. The architecture in the level is basic but adequate. I would appreciate some feedback on any aspects of the level.
+ 
+* Disclaimer *
+
+This .zip file and all its contents have been check and declaired free of Viruses by McAffee Virus Scan running with latest available datafiles as of 28/04/99.  None of these files has the potential to cause any damage whatsoever to your hardware or software and has not been designed to do so. I cannot be responsible for any damage which may result directly or indirectly from the use of these files or additional files added to or modifications made to the original installation 101GRUNT.zip. If you have any queries then please don't hesitate to E-mail me at the address at the top
+of this document.
+
+* Permissions *
+
+These files may be used and distributed freely, as long as the archive
+remains intact and no fee is charged. No part of these files may be recreated in any way, shape or form without my written permission. You must get my permission to put any of these files on a CD or any other type of electronic/digital media if you intend to sell it. Half Life is a registered trademark of Valve software.  
+
+Copyright Jonathan L Gower 1999.
+
+*Hints* (Only read if your stuck)
+
+You shouldn't really get stuck as the level is fairly linear but on the second map where the two big main doors are and there is a T-junction you first have to go left because there is a door on the right. That door is opened in the room where there are two switches next to each other. The first switch shows a cut scene of the control room door opening. The second switch opens the door by the main doors which is enroute to the control room.
+
+The only other problem you may find is when you encounter the assassins. It first appears that you are trapped and that you can't get out even if you have killed the assassins. The answer is that on the far wall by the opposite door are two small boxes. These are hiding a vent that will give you access to the control room.
+
+*Thanks*
+
+Freon for the Rain Tutorial, Valve Software, Radio 1 for providng the sounds while I was making this level 

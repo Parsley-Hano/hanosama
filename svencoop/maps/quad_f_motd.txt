@@ -1,0 +1,45 @@
+---------------------
+Map: quad
+By: Streamfox & Maiten
+Version: Final
+---------------------
+
+This map is designed for exactly 2 players. 
+More kinda ruin the concpet of the map.
+If more players, then you should let 2 players
+do the puzzles at once.
+================================================
+quad is a simple jump and skill map. 
+Work as a team to pass throught various puzzles until the end. 
+
+Red and yellow guildlines on grounds and walls
+will help you which switch trigger what.
+
+The carts or cars, whatever, work on this way:
+The cars control the other one. I think you'll figure this out.
+
+Pressure platforms work on this way:
+Blue controls orange.
+
+Musics from the DOS game "Epic Pinball"
+
+Speacial thanks to:
+**Maiten** - dat awesome score system
+
+RNG 
+Sence
+Keen
+Poka
+
+wolf-3d
+Kirby
+Barricade 
+After
+and rest of players of imperium sven coop server which played and tested previous versions
+(i can't remember all of them,they are alot :D)
+
+Try playing without scxpm,some versions of scxpm
+can ruin some things in the map
+
+Don't forget, faggots don't read MOTD.
+If you are reading this, that clearly means you aren't one.

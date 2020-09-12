@@ -1,0 +1,12 @@
+maps/sc_tombofdeath_v12-4.res
+maps/sc_tombofdeath_v12-4.bsp
+maps/sc_tombofdeath_v12-4.cfg
+maps/sc_tombofdeath_v12-4_skl.cfg
+maps/sc_tombofdeath_v12-4_motd.txt
+models/sc_tombofdeath/w_suit.mdl
+models/sc_tombofdeath/bloodgonome.mdl
+models/sc_tombofdeath/pitdrone.mdl
+models/sc_tombofdeath/pitdrone_gibs.mdl
+sound/sc_tombofdeath/egg_burn.wav
+sc_tombofdeath_readme.txt
+sc_tombofdeath.wad

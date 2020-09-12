@@ -1,0 +1,18 @@
+RageMap2018 - Part A
+
+A different challenge awaits you behind each of the doors! Sometimes you need to use the RageCube from the center of the spawn to finish a certain section. 
+
+If you lost the cube, the button in the spawn room starts a vote to respawn it.
+
+RageMap is a collaborative map project by the following SC mappers:
+AdamR
+Aurora
+CryoKeen
+Hezus
+mr_redman
+SV BOY
+tu3sday
+Silencer/Zyl
+Puchi
+_RC
+

@@ -1,0 +1,21 @@
+"sprites/hotglow.spr" "sprites/poke646/hotglow.spr"
+"sprites/muzzleflash3.spr" "sprites/poke646/muzzleflash3.spr"
+
+"models/scientist.mdl" "models/poke646/monsters/scientist/scientist.mdl"
+"models/hgrunt.mdl" "models/poke646/monsters/hgrunt/hgrunt.mdl"
+
+"models/crossbow_bolt.mdl" "models/poke646/items/crossbow_bolt.mdl"
+"models/shotgunshell.mdl" "models/poke646/items/shotgunshell.mdl"
+
+"models/w_crossbow_clip.mdl" "models/poke646/items/w_crossbow_clip.mdl"
+"models/w_9mmclip.mdl" "models/poke646/items/w_nailclip.mdl"
+"models/w_shotbox.mdl" "models/poke646/items/w_shotbox.mdl"
+"models/w_medkit.mdl" "models/poke646/items/w_medibox.mdl"
+"models/w_9mmarclip.mdl" "models/poke646/items/w_nailround.mdl"
+"models/w_mp5_clip.mdl" "models/poke646/items/w_nailround.mdl"
+
+"models/v_satchel_radio.mdl" "models/poke646/weapons/pipebomb/v_pipebomb_watch.mdl"
+"models/p_satchel_radio.mdl" "models/poke646/weapons/pipebomb/p_pipebomb_watch.mdl"
+"models/v_satchel.mdl" "models/poke646/weapons/pipebomb/v_pipebomb.mdl"
+"models/w_satchel.mdl" "models/poke646/weapons/pipebomb/w_pipebomb.mdl"
+"models/p_satchel.mdl" "models/poke646/weapons/pipebomb/p_pipebomb.mdl"

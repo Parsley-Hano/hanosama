@@ -1,0 +1,19 @@
+The score is based on players deaths and time token to complete each puzzle.
+Each deaths will subtract 100 points
+The tops scores will be saved,if you reach the top 1 your nick will be saved in the 
+scoreboard stadistics (use key on scoreboard to see),it can saved up to 4 players nick
+i have put these limit because the map supposedly is done for 2 players
+the statistics will be reload after you complete 2 puzzles
+
+Try playing without scxpm,some versions of scxpm can ruin some things in the map
+
+HAVE FUN!
+
+Specials thanks:
+
+Streamfox,for make this awesome map
+wolf-3d,for help me with some ents issues
+Kirby,for help me to balance the systema and suggestions
+Kirby,Barricade,after and rest of players of imperium sc 4.6 server which played and tested previous versions
+(i can't remember all of them,they are alot :D)
+
