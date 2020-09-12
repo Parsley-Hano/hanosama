@@ -1,0 +1,3 @@
+Put all in Steam\SteamApps\common\Sven Co-op\svencoop.
+
+SCxpm could break entsystems due to its high jumping feature.
