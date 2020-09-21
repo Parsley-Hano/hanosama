@@ -1,0 +1,76 @@
+[Yes]
+3 : nothitlervoice/yes1.mp3
+3 : nothitlervoice/yes2.mp3
+
+[No]
+3 : nothitlervoice/no1.mp3
+3 : nothitlervoice/no2.mp3
+
+[Hello]
+3 : nothitlervoice/hello1.mp3
+3 : nothitlervoice/hello2.mp3
+
+[Cheer]
+3 : nothitlervoice/cheer1.mp3
+3 : nothitlervoice/cheer2.mp3
+
+[Follow me]
+3 : nothitlervoice/follow1.mp3
+3 : nothitlervoice/follow2.mp3
+
+[I'm with you]
+3 : nothitlervoice/withyou1.mp3
+3 : nothitlervoice/withyou2.mp3
+
+[Thanks]
+3 : nothitlervoice/thanks1.mp3
+
+[You're welcome]
+3 : nothitlervoice/welcome1.mp3
+
+[Help]
+3 : nothitlervoice/help1.mp3
+3 : nothitlervoice/help2.mp3
+3 : nothitlervoice/help3.mp3
+3 : nothitlervoice/help4.mp3
+
+[Sorry]
+3 : nothitlervoice/sorry1.mp3
+
+[Chit-chat]
+3 : nothitlervoice/chat1.mp3
+3 : nothitlervoice/chat2.mp3
+3 : nothitlervoice/chat3.mp3
+3 : nothitlervoice/chat4.mp3
+3 : nothitlervoice/chat5.mp3
+3 : nothitlervoice/chat6.mp3
+3 : nothitlervoice/chat7.mp3
+3 : nothitlervoice/chat8.mp3
+3 : nothitlervoice/chat9.mp3
+
+[Taunt]
+3 : nothitlervoice/taunt1.mp3
+3 : nothitlervoice/taunt2.mp3
+3 : nothitlervoice/taunt3.mp3
+3 : nothitlervoice/taunt4.mp3
+3 : nothitlervoice/taunt5.mp3
+3 : nothitlervoice/taunt6.mp3
+3 : nothitlervoice/taunt7.mp3
+3 : nothitlervoice/taunt8.mp3
+
+[Run away]
+3 : nothitlervoice/run1.mp3
+3 : nothitlervoice/run2.mp3
+
+[Stop]
+3 : nothitlervoice/stop1.mp3
+3 : nothitlervoice/stop2.mp3
+3 : nothitlervoice/stop3.mp3
+3 : nothitlervoice/stop4.mp3
+
+[Dead]
+3 : nothitlervoice/die1.mp3
+3 : nothitlervoice/die2.mp3
+3 : nothitlervoice/die3.mp3
+3 : nothitlervoice/die4.mp3
+3 : nothitlervoice/die5.mp3

@@ -1,0 +1,149 @@
+#define hat models here
+
+#format guide:
+# path doesnt require models/ or .mdl, they are automagically added
+# static defines name from model name
+#STATIC path
+# use this to define multiple hats from single model that contains submodels
+#DYNAMIC path submodel sequence name
+
+STATIC hats/afro
+STATIC hats/angel2
+STATIC hats/angelback
+STATIC hats/angery-glow
+STATIC hats/angery
+STATIC hats/anticross
+STATIC hats/arrow
+STATIC hats/asswp
+STATIC hats/autism
+STATIC hats/awesome
+STATIC hats/bandana
+STATIC hats/barrel
+STATIC hats/beerhat
+STATIC hats/bighead
+STATIC hats/bobafett
+STATIC hats/bomb
+STATIC hats/bow
+STATIC hats/bucket
+STATIC hats/camohat
+STATIC hats/cashield
+STATIC hats/catback
+STATIC hats/cheesehead
+STATIC hats/chopper
+STATIC hats/clocknecklace
+STATIC hats/clonetrooper_big
+STATIC hats/commie
+STATIC hats/cow
+STATIC hats/cowboy
+STATIC hats/cross
+STATIC hats/dar
+STATIC hats/darth
+STATIC hats/darth2_big
+STATIC hats/devil2
+STATIC hats/dickinabox
+STATIC hats/dodgerscap
+STATIC hats/dunce
+STATIC hats/earth
+STATIC hats/elf
+STATIC hats/football_helm
+STATIC hats/gasmask
+STATIC hats/gasmask_wh
+STATIC hats/giantscap
+STATIC hats/goauld
+STATIC hats/goauldshoulders
+STATIC hats/goodevil
+STATIC hats/headcrab
+STATIC hats/headphones
+STATIC hats/hellokitty
+STATIC hats/helmet
+STATIC hats/hfm
+STATIC hats/hood
+STATIC hats/hotdoghat
+STATIC hats/illuminati
+STATIC hats/jackinbox
+STATIC hats/jackolantern
+STATIC hats/jackolantern2
+STATIC hats/jamacahat2
+STATIC hats/jason
+STATIC hats/jdshirt
+STATIC hats/johnhead
+STATIC hats/joker
+STATIC hats/js
+STATIC hats/kamikaze_bomb
+STATIC hats/kfcbucket
+STATIC hats/lemonhead
+STATIC hats/leprechaun
+STATIC hats/magic
+STATIC hats/majmask
+STATIC hats/mars_attacks
+STATIC hats/mask
+STATIC hats/maskoftruth
+STATIC hats/masterchief
+STATIC hats/masterchief_big
+STATIC hats/mau5
+STATIC hats/merlin
+STATIC hats/miku_head
+STATIC hats/milk
+STATIC hats/moonmanhead
+STATIC hats/paperbag
+STATIC hats/pbbears
+STATIC hats/pepsi
+STATIC hats/pillsburyhat
+STATIC hats/pirate
+STATIC hats/pirate2
+STATIC hats/pizza
+STATIC hats/pizzabox
+STATIC hats/popeye
+STATIC hats/psycho
+STATIC hats/punk
+STATIC hats/pyramidhead
+STATIC hats/pyramidhead_new
+STATIC hats/ricefarmer
+STATIC hats/robinhood
+STATIC hats/rubikscube
+STATIC hats/santahat
+STATIC hats/santahat2
+STATIC hats/sbhat
+STATIC hats/sconf
+STATIC hats/scream
+STATIC hats/segfault
+STATIC hats/shades
+STATIC hats/shoopdawhoop
+STATIC hats/siren
+STATIC hats/smalldickinabox
+STATIC hats/smileyface
+STATIC hats/sombrero
+STATIC hats/sortinghat
+STATIC hats/spartan
+STATIC hats/spartan2
+STATIC hats/spongebob
+STATIC hats/stahlhelm
+STATIC hats/stormhel
+STATIC hats/sumbraro2
+STATIC hats/supermancape
+STATIC hats/svencape
+STATIC hats/svencoop
+STATIC hats/sword
+STATIC hats/tank
+STATIC hats/toilet
+STATIC hats/tophat
+STATIC hats/tutu
+STATIC hats/tv
+STATIC hats/tweedle
+STATIC hats/ugandaknacle
+STATIC hats/urinal
+STATIC hats/ushanka
+STATIC hats/viking
+STATIC hats/weenur
+STATIC hats/wehrmacht
+STATIC hats/xmas_cap
+DYNAMIC hats/cso_like_costumes_head 0 0 angelhead
+DYNAMIC hats/cso_like_costumes_head 1 1 bazzihead
+DYNAMIC hats/cso_like_costumes_head 2 2 cathead
+DYNAMIC hats/cso_like_costumes_head 3 3 daohead
+DYNAMIC hats/cso_like_costumes_head 4 4 devilhead
+DYNAMIC hats/cso_like_costumes_head 5 5 goldhead
+DYNAMIC hats/cso_like_costumes_head 6 6 pandahead
+DYNAMIC hats/cso_like_costumes_head 7 7 pighead
+DYNAMIC hats/cso_like_costumes_head 8 8 polarbearhead
+DYNAMIC hats/cso_like_costumes_head 9 9 squirrelhead

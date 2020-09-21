@@ -1,0 +1,88 @@
+[Yes]
+2 : vox/yes1.wav
+2 : vox/yes2.wav
+2 : vox/yes3.wav
+2 : vox/yes4.wav
+
+[No]
+2 : vox/no1.wav
+2 : vox/no2.wav
+2 : vox/no3.wav
+
+[Hello]
+2 : vox/hello1.wav
+2 : vox/hello2.wav
+
+[Cheer]
+2 : vox/cheer1.wav
+2 : vox/cheer2.wav
+2 : vox/cheer3.wav
+2 : vox/cheer4.wav
+2 : vox/cheer5.wav
+2 : vox/cheer6.wav
+
+[Follow me]
+2 : vox/follow1.wav
+2 : vox/follow2.wav
+2 : vox/follow3.wav
+2 : vox/follow4.wav
+
+[I'm with you]
+2 : vox/withyou1.wav
+2 : vox/withyou2.wav
+
+[Thanks]
+2 : vox/thanks1.wav
+2 : vox/thanks2.wav
+2 : vox/thanks3.wav
+2 : vox/thanks4.wav
+
+[You're welcome]
+2 : vox/welcome1.wav
+2 : vox/welcome2.wav
+
+[Help]
+2 : vox/help1.wav
+2 : vox/help2.wav
+2 : vox/help3.wav
+2 : vox/help4.wav
+2 : vox/help5.wav
+
+[Sorry]
+2 : vox/sorry1.wav
+2 : vox/sorry2.wav
+2 : vox/sorry3.wav
+2 : vox/sorry4.wav
+
+[Chit-chat]
+2 : vox/chat1.wav
+2 : vox/chat2.wav
+2 : vox/chat3.wav
+2 : vox/chat4.wav
+2 : vox/chat5.wav
+
+[Taunt]
+2 : vox/taunt1.wav
+2 : vox/taunt2.wav
+2 : vox/taunt3.wav
+2 : vox/taunt4.wav
+2 : vox/taunt5.wav
+2 : vox/taunt6.wav
+
+[Run away]
+2 : vox/run1.wav
+2 : vox/run2.wav
+2 : vox/run3.wav
+2 : vox/run4.wav
+
+[Stop]
+2 : vox/stop1.wav
+2 : vox/stop2.wav
+2 : vox/stop3.wav
+
+[Dead]
+2 : vox/die1.wav
+2 : vox/die2.wav
+2 : vox/die3.wav
+2 : vox/die4.wav
+2 : vox/die5.wav

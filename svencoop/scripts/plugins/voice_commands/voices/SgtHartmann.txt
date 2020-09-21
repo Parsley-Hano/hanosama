@@ -1,0 +1,77 @@
+[Yes]
+2 : sgthartmann_voice/yes1.ogg
+
+[No]
+2 : sgthartmann_voice/no1.ogg
+2 : sgthartmann_voice/no2.ogg
+
+[Hello]
+2 : sgthartmann_voice/hello1.ogg
+2 : sgthartmann_voice/hello2.ogg
+2 : sgthartmann_voice/hello3.ogg
+2 : sgthartmann_voice/hello4.ogg
+
+[Cheer]
+2 : sgthartmann_voice/cheer1.ogg
+
+[Follow me]
+2 : sgthartmann_voice/follow1.ogg
+
+[I'm with you]
+2 : sgthartmann_voice/withyou1.ogg
+
+[Thanks]
+2 : sgthartmann_voice/thanks1.ogg
+2 : sgthartmann_voice/thanks2.ogg
+
+[You're welcome]
+2 : sgthartmann_voice/welcome1.ogg
+
+[Help]
+2 : sgthartmann_voice/help1.ogg
+
+[Sorry]
+2 : sgthartmann_voice/sorry1.ogg
+
+[Chit-chat]
+2 : sgthartmann_voice/chat1.ogg
+2 : sgthartmann_voice/chat2.ogg
+2 : sgthartmann_voice/chat3.ogg
+2 : sgthartmann_voice/chat4.ogg
+2 : sgthartmann_voice/chat5.ogg
+2 : sgthartmann_voice/chat6.ogg
+2 : sgthartmann_voice/chat7.ogg
+2 : sgthartmann_voice/chat8.ogg
+2 : sgthartmann_voice/chat9.ogg
+2 : sgthartmann_voice/chat10.ogg
+2 : sgthartmann_voice/chat11.ogg
+2 : sgthartmann_voice/chat12.ogg
+2 : sgthartmann_voice/chat13.ogg
+
+[Taunt]
+2 : sgthartmann_voice/taunt1.ogg
+2 : sgthartmann_voice/taunt2.ogg
+2 : sgthartmann_voice/taunt3.ogg
+2 : sgthartmann_voice/taunt4.ogg
+2 : sgthartmann_voice/taunt5.ogg
+2 : sgthartmann_voice/taunt6.ogg
+2 : sgthartmann_voice/taunt7.ogg
+
+[Run away]
+2 : sgthartmann_voice/run1.ogg
+2 : sgthartmann_voice/run2.ogg
+2 : sgthartmann_voice/run3.ogg
+
+[Stop]
+2 : sgthartmann_voice/stop1.ogg
+2 : sgthartmann_voice/stop2.ogg
+2 : sgthartmann_voice/stop3.ogg
+2 : sgthartmann_voice/stop4.ogg
+2 : sgthartmann_voice/stop5.ogg
+2 : sgthartmann_voice/stop6.ogg
+2 : sgthartmann_voice/stop7.ogg
+
+[Dead]
+2 : sgthartmann_voice/die1.ogg
+2 : sgthartmann_voice/die2.ogg
+2 : sgthartmann_voice/die3.ogg

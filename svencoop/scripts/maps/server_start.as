@@ -1,0 +1,1 @@
+void MapActivate(){ g_EngineFuncs.ChangeLevel( "eshq01" ); }

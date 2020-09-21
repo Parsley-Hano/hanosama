@@ -1,0 +1,97 @@
+[Yes]
+4 : l4d2_ellis/yes1.ogg
+4 : l4d2_ellis/yes2.ogg
+4 : l4d2_ellis/yes3.ogg
+4 : l4d2_ellis/yes4.ogg
+4 : l4d2_ellis/yes5.ogg
+
+[No]
+4 : l4d2_ellis/no1.ogg
+4 : l4d2_ellis/no2.ogg
+4 : l4d2_ellis/no3.ogg
+4 : l4d2_ellis/no4.ogg
+4 : l4d2_ellis/no5.ogg
+
+[Hello]
+4 : l4d2_ellis/hello1.ogg
+4 : l4d2_ellis/hello2.ogg
+4 : l4d2_ellis/hello3.ogg
+4 : l4d2_ellis/hello4.ogg
+4 : l4d2_ellis/hello5.ogg
+
+[Cheer]
+4 : l4d2_ellis/cheer1.ogg
+4 : l4d2_ellis/cheer2.ogg
+4 : l4d2_ellis/cheer3.ogg
+4 : l4d2_ellis/cheer4.ogg
+4 : l4d2_ellis/cheer5.ogg
+
+[Follow me]
+4 : l4d2_ellis/follow1.ogg
+4 : l4d2_ellis/follow2.ogg
+4 : l4d2_ellis/follow3.ogg
+
+[I'm with you]
+4 : l4d2_ellis/withyou1.ogg
+4 : l4d2_ellis/withyou2.ogg
+4 : l4d2_ellis/withyou3.ogg
+
+[Thanks]
+4 : l4d2_ellis/thanks1.ogg
+4 : l4d2_ellis/thanks2.ogg
+4 : l4d2_ellis/thanks3.ogg
+4 : l4d2_ellis/thanks4.ogg
+
+[You're welcome]
+4 : l4d2_ellis/welcome1.ogg
+4 : l4d2_ellis/welcome2.ogg
+4 : l4d2_ellis/welcome3.ogg
+4 : l4d2_ellis/welcome4.ogg
+
+[Help]
+4 : l4d2_ellis/help1.ogg
+4 : l4d2_ellis/help2.ogg
+4 : l4d2_ellis/help3.ogg
+4 : l4d2_ellis/help4.ogg
+
+[Sorry]
+4 : l4d2_ellis/sorry1.ogg
+4 : l4d2_ellis/sorry2.ogg
+4 : l4d2_ellis/sorry3.ogg
+4 : l4d2_ellis/sorry4.ogg
+4 : l4d2_ellis/sorry5.ogg
+
+[Chit-chat]
+4 : l4d2_ellis/chat1.ogg
+4 : l4d2_ellis/chat2.ogg
+4 : l4d2_ellis/chat3.ogg
+4 : l4d2_ellis/chat4.ogg
+4 : l4d2_ellis/chat5.ogg
+4 : l4d2_ellis/chat6.ogg
+4 : l4d2_ellis/chat7.ogg
+
+[Taunt]
+4 : l4d2_ellis/taunt1.ogg
+4 : l4d2_ellis/taunt2.ogg
+4 : l4d2_ellis/taunt3.ogg
+4 : l4d2_ellis/taunt4.ogg
+
+[Run away]
+4 : l4d2_ellis/run1.ogg
+4 : l4d2_ellis/run2.ogg
+4 : l4d2_ellis/run3.ogg
+4 : l4d2_ellis/run4.ogg
+
+[Stop]
+4 : l4d2_ellis/stop1.ogg
+4 : l4d2_ellis/stop2.ogg
+4 : l4d2_ellis/stop3.ogg
+4 : l4d2_ellis/stop4.ogg
+4 : l4d2_ellis/stop5.ogg
+
+[Dead]
+4 : l4d2_ellis/die1.ogg
+4 : l4d2_ellis/die2.ogg
+4 : l4d2_ellis/die3.ogg
+4 : l4d2_ellis/die4.ogg
+4 : l4d2_ellis/die5.ogg

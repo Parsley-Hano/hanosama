@@ -1,0 +1,37 @@
+#format guide:
+# petname is what players will use to summon it ie: it's name
+# modelname doesn't require models/ or .mdl, they are automagically added
+# idleanim, runanim, and deathanim is the sequence number to use for those animations
+# runspeed is the framerate of the animation (pets move with players) as is idlespeed
+# deathlength should be (frames/fps) * 2
+# minus_z_standing and minus_z_crouching: if a value of 0 causes the pet to spawn in the air or under the ground, modify these (not sure if crouching is needed)
+# max and mindistance basically determines when the pet should start moving towards the player and when it should stop
+# all numerical keys except idleanim, runanim, and deathanim are floats (Decimals. eg: 4.2, 13.37, 42.0)
+# controllerid and distance is for when the model has bone controllers that need to be modified to get the model to look straight ahead, several can be entered (eg: id1:distance1:id2:distance2:id3:distance3)
+
+#petname	modelname	scale	idleanim	idlespeed	runanim		runspeed	deathanim		deathlength	minus_z_standing	minus_z_crouching	maxdistance		mindistance	controllerid:distance
+
+headcrab headcrab 0.5 0 1.0 4 2.0 7 2.0 36.0 16.0 300.0 120.0
+rat bigrat 1.5 3 1.0 4 6.0 7 4.6 36.0 16.0 300.0 120.0
+xenbat boid 1.0 0 1.0 0 3.0 0 0.1 5.0 6.0 300.0 120.0
+chumtoad chumtoad 0.5 0 1.0 5 0.75 12 3.0 36.0 16.0 300.0 120.0
+floater floater 1.0 0 1.0 0 1.0 0 0.1 5.0 6.0 300.0 120.0
+cockroach roach 2 1 1.0 0 1.0 1 0.1 36.0 16.0 300.0 120.0
+stukabat stukabat 1.0 13 0.25 13 1.0 5 3.0 10.0 11.0 300.0 120.0
+bigmomma big_mom 0.25 0 1.0 3 1.0 4 5.0 36.0 16.0 1000.0 120.0
+aliengrunt agrunt 0.5 0 1.0 3 1.0 22 2.6 36.0 16.0 600.0 120.0 0:127
+archer archer 1.0 0 1.0 5 0.6 9 3.0 20.0 30.0 300.0 100.0
+babyheadcrab baby_headcrab 1.5 0 1.0 4 0.6 7 3.0 36.0 16.0 300.0 120.0
+gargantua garg 0.25 0 1.0 5 1.0 14 6.0 36.0 16.0 800.0 140.0 0:127
+bullsquid bullsquid 0.4 7 1.0 1 1.0 16 2.5 36.0 16.0 400.0 130.0
+houndeye houndeye 0.5 1 1.0 3 1.0 6 2.5 36.0 16.0 400.0 120.0
+loader loader 0.25 3 1.0 2 0.4 5 7.0 36.0 16.0 1000.0 120.0
+controller controller 0.5 15 1.0 9 1.0 18 7.0 0.0 0.0 800.0 120.0
+gman gman 0.8 0 1.0 6 2.0 22 2.6 36.0 16.0 600.0 100.0
+dog hunger/hungerhound 0.5 0 1.0 8 1.0 6 2.5 36.0 16.0 400.0 120.0
+skeleton hunger/hungerslave 0.8 2 1.0 6 1.0 6 2.5 36.0 16.0 400.0 120.0
+miketama the_daikon_warfare/miketama_assasin_dual 0.7 0 1 5 1 0 7.2 36.0 16.0 400.0 120.0
+chatarou the_daikon_warfare/chatarou 0.5 1 1 5 01 0 1 36.0 16.0 400.0 120.0
+freeman sectore/freeman 1.0 15 1.0 9 1.0 18 7.0 0.0 0.0 800.0 120.0
+pizzashopowner pizza_ya_san/owner_shin_pizza 0.5 8 1.0 1 1.0 7 2.0 36.0 16.0 300.0 120.0
+dickdemon ragemap2012/dickdemon 0.4 7 1.0 1 1.0 16 2.5 36.0 16.0 400.0 130.0

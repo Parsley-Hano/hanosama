@@ -1,0 +1,1 @@
+../ClassicModeDeluxe/classic_maps.txt

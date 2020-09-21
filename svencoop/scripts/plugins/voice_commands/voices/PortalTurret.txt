@@ -1,0 +1,109 @@
+[Yes]
+4 : ptvoice/turretshotbylaser08.ogg
+4 : ptvoice/turretshotbylaser09.ogg
+
+[No]
+4 : ptvoice/turretlaunched04.ogg
+4 : ptvoice/sp_sabotage_factory_good_fail06.ogg
+4 : ptvoice/turret_pickup_5.ogg
+
+[Hello]
+4 : ptvoice/turretsquashed05.ogg
+4 : ptvoice/sp_sabotage_factory_template01.ogg
+4 : ptvoice/sp_sabotage_factory_good_pass01.ogg
+4 : ptvoice/turret_active_1.ogg
+4 : ptvoice/turret_active_5.ogg
+4 : ptvoice/turret_autosearch_1.ogg
+4 : ptvoice/turret_deploy_1.ogg
+4 : ptvoice/turret_pickup_1.ogg
+4 : ptvoice/turret_pickup_7.ogg
+
+[Cheer]
+4 : ptvoice/turretwitnessdeath01.ogg
+4 : ptvoice/turretwitnessdeath02.ogg
+4 : ptvoice/turretwitnessdeath04.ogg
+4 : ptvoice/turretlaunched02.ogg
+4 : ptvoice/turretlaunched08.ogg
+4 : ptvoice/turretlaunched09.ogg
+
+[Follow me]
+4 : ptvoice/turretlightbridgeblock01.ogg
+4 : ptvoice/turret_autosearch_6.ogg
+4 : ptvoice/turret_active_8.ogg
+4 : ptvoice/turret_active_7.ogg
+4 : ptvoice/turretwitnessdeath03.ogg
+
+[I'm with you]
+4 : ptvoice/deploy.ogg
+4 : ptvoice/turret_collide_1.ogg
+
+[Thanks]
+4 : ptvoice/turret_disabled_5.ogg
+4 : ptvoice/turret_disabled_6.ogg
+
+[You're welcome]
+4 : ptvoice/turret_retire_3.ogg
+4 : ptvoice/retract.ogg
+
+[Help]
+4 : ptvoice/turret_pickup_9.ogg
+4 : ptvoice/turret_pickup_10.ogg
+4 : ptvoice/sp_sabotage_factory_good_fail04.ogg
+4 : ptvoice/turretsquashed06.ogg
+4 : ptvoice/turretshotbylaser06.ogg
+
+[Sorry]
+4 : ptvoice/turret_collide_2.ogg
+4 : ptvoice/turret_collide_3.ogg
+4 : ptvoice/turret_collide_4.ogg
+4 : ptvoice/turret_collide_5.ogg
+4 : ptvoice/turretwitnessdeath07.ogg
+4 : ptvoice/turretwitnessdeath06.ogg
+4 : ptvoice/turretwitnessdeath11.ogg
+4 : ptvoice/turretwitnessdeath13.ogg
+
+[Chit-chat]
+4 : ptvoice/turretlaunched03.ogg
+4 : ptvoice/turretlightbridgeblock02.ogg
+4 : ptvoice/turretsquashed04.ogg
+4 : ptvoice/sp_sabotage_factory_good_fail03.ogg
+4 : ptvoice/turret_disabled_3.ogg
+4 : ptvoice/turret_search_3.ogg
+4 : ptvoice/turret_protect_humans01.ogg
+4 : ptvoice/turretwitnessdeath14.ogg
+4 : ptvoice/turretshotbylaser05.ogg
+4 : ptvoice/die.ogg
+
+[Taunt]
+4 : ptvoice/turretwitnessdeath12.ogg
+4 : ptvoice/turretwitnessdeath08.ogg
+4 : ptvoice/sp_sabotage_factory_good_prerange01.ogg
+4 : ptvoice/turret_deploy_6.ogg
+4 : ptvoice/turret_pickup_6.ogg
+4 : ptvoice/alarm.ogg
+4 : ptvoice/turretwitnessdeath15.ogg
+4 : ptvoice/turretlightbridgeblock03.ogg
+
+[Run away]
+4 : ptvoice/turret_fizzler_1.ogg
+4 : ptvoice/sp_sabotage_factory_good_fail05.ogg
+4 : ptvoice/sp_sabotage_factory_good_fail02.ogg
+
+[Stop]
+4 : ptvoice/turretshotbylaser07.ogg
+4 : ptvoice/turret_shotat_1.ogg
+4 : ptvoice/turret_shotat_2.ogg
+4 : ptvoice/turret_shotat_3.ogg
+
+[Dead]
+4 : ptvoice/turret_disabled_7.ogg
+4 : ptvoice/turret_disabled_4.ogg
+4 : ptvoice/turret_disabled_2.ogg
+4 : ptvoice/turret_retire_1.ogg
+4 : ptvoice/turret_retire_2.ogg
+4 : ptvoice/turret_tipped_2.ogg
+4 : ptvoice/turret_tipped_3.ogg
+4 : ptvoice/turret_tipped_4.ogg
+4 : ptvoice/turret_tipped_5.ogg
+4 : ptvoice/turret_tipped_6.ogg
+4 : ptvoice/turretsquashed03.ogg

@@ -1,0 +1,82 @@
+[Yes]
+3 : cjohnson_voice/yes1.mp3
+3 : cjohnson_voice/yes2.mp3
+
+[No]
+3 : cjohnson_voice/no1.mp3
+3 : cjohnson_voice/no2.mp3
+3 : cjohnson_voice/no3.mp3
+
+[Hello]
+3 : cjohnson_voice/hello1.mp3
+3 : cjohnson_voice/hello2.mp3
+3 : cjohnson_voice/hello3.mp3
+3 : cjohnson_voice/hello4.mp3
+3 : cjohnson_voice/hello5.mp3
+3 : cjohnson_voice/hello6.mp3
+
+[Cheer]
+3 : cjohnson_voice/cheer1.mp3
+3 : cjohnson_voice/cheer2.mp3
+
+[Follow me]
+3 : cjohnson_voice/follow1.mp3
+3 : cjohnson_voice/follow2.mp3
+3 : cjohnson_voice/follow3.mp3
+3 : cjohnson_voice/follow4.mp3
+
+[I'm with you]
+3 : cjohnson_voice/withyou1.mp3
+
+[Thanks]
+3 : cjohnson_voice/thanks1.mp3
+3 : cjohnson_voice/thanks2.mp3
+
+[You're welcome]
+3 : cjohnson_voice/welcome1.mp3
+3 : cjohnson_voice/welcome2.mp3
+
+[Help]
+3 : cjohnson_voice/help1.mp3
+3 : cjohnson_voice/help2.mp3
+
+[Sorry]
+3 : cjohnson_voice/sorry1.mp3
+
+[Chit-chat]
+3 : cjohnson_voice/chat1.mp3
+3 : cjohnson_voice/chat2.mp3
+3 : cjohnson_voice/chat3.mp3
+3 : cjohnson_voice/chat4.mp3
+3 : cjohnson_voice/chat5.mp3
+3 : cjohnson_voice/chat6.mp3
+3 : cjohnson_voice/chat7.mp3
+3 : cjohnson_voice/chat8.mp3
+3 : cjohnson_voice/chat9.mp3
+3 : cjohnson_voice/chat10.mp3
+3 : cjohnson_voice/chat11.mp3
+3 : cjohnson_voice/chat12.mp3
+3 : cjohnson_voice/chat13.mp3
+
+[Taunt]
+3 : cjohnson_voice/taunt1.mp3
+3 : cjohnson_voice/taunt2.mp3
+3 : cjohnson_voice/taunt3.mp3
+3 : cjohnson_voice/taunt4.mp3
+
+[Run away]
+3 : cjohnson_voice/run1.mp3
+3 : cjohnson_voice/run2.mp3
+
+[Stop]
+3 : cjohnson_voice/stop1.mp3
+3 : cjohnson_voice/stop2.mp3
+3 : cjohnson_voice/stop3.mp3
+3 : cjohnson_voice/stop4.mp3
+3 : cjohnson_voice/stop5.mp3
+
+[Dead]
+3 : cjohnson_voice/die1.mp3
+3 : cjohnson_voice/die2.mp3
+3 : cjohnson_voice/die3.mp3
+3 : cjohnson_voice/die4.mp3

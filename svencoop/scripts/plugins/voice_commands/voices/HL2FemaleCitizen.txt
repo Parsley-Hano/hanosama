@@ -1,0 +1,104 @@
+[Yes]
+5 : hl2fcitizen_voice/yes1.ogg
+5 : hl2fcitizen_voice/yes2.ogg
+5 : hl2fcitizen_voice/yes3.ogg
+5 : hl2fcitizen_voice/yes4.ogg
+5 : hl2fcitizen_voice/yes5.ogg
+5 : hl2fcitizen_voice/yes6.ogg
+
+[No]
+5 : hl2fcitizen_voice/no1.ogg
+5 : hl2fcitizen_voice/no2.ogg
+5 : hl2fcitizen_voice/no3.ogg
+5 : hl2fcitizen_voice/no4.ogg
+5 : hl2fcitizen_voice/no5.ogg
+5 : hl2fcitizen_voice/no6.ogg
+5 : hl2fcitizen_voice/no7.ogg
+
+[Hello]
+5 : hl2fcitizen_voice/hello1.ogg
+5 : hl2fcitizen_voice/hello2.ogg
+
+[Cheer]
+5 : hl2fcitizen_voice/cheer1.ogg
+5 : hl2fcitizen_voice/cheer2.ogg
+5 : hl2fcitizen_voice/cheer3.ogg
+5 : hl2fcitizen_voice/cheer4.ogg
+
+[Follow me]
+5 : hl2fcitizen_voice/follow1.ogg
+5 : hl2fcitizen_voice/follow2.ogg
+5 : hl2fcitizen_voice/follow3.ogg
+5 : hl2fcitizen_voice/follow4.ogg
+5 : hl2fcitizen_voice/follow5.ogg
+
+[I'm with you]
+5 : hl2fcitizen_voice/withyou1.ogg
+5 : hl2fcitizen_voice/withyou2.ogg
+5 : hl2fcitizen_voice/withyou3.ogg
+
+[Thanks]
+5 : hl2fcitizen_voice/thanks1.ogg
+5 : hl2fcitizen_voice/thanks2.ogg
+
+[You're welcome]
+5 : hl2fcitizen_voice/welcome1.ogg
+5 : hl2fcitizen_voice/welcome2.ogg
+5 : hl2fcitizen_voice/welcome3.ogg
+
+[Help]
+5 : hl2fcitizen_voice/help1.ogg
+5 : hl2fcitizen_voice/help2.ogg
+5 : hl2fcitizen_voice/help3.ogg
+5 : hl2fcitizen_voice/help4.ogg
+
+[Sorry]
+5 : hl2fcitizen_voice/sorry1.ogg
+5 : hl2fcitizen_voice/sorry2.ogg
+5 : hl2fcitizen_voice/sorry3.ogg
+
+[Chit-chat]
+5 : hl2fcitizen_voice/chat1.ogg
+5 : hl2fcitizen_voice/chat2.ogg
+5 : hl2fcitizen_voice/chat3.ogg
+5 : hl2fcitizen_voice/chat4.ogg
+5 : hl2fcitizen_voice/chat5.ogg
+5 : hl2fcitizen_voice/chat6.ogg
+5 : hl2fcitizen_voice/chat7.ogg
+5 : hl2fcitizen_voice/chat8.ogg
+
+[Taunt]
+5 : hl2fcitizen_voice/taunt1.ogg
+5 : hl2fcitizen_voice/taunt2.ogg
+5 : hl2fcitizen_voice/taunt3.ogg
+5 : hl2fcitizen_voice/taunt4.ogg
+5 : hl2fcitizen_voice/taunt5.ogg
+5 : hl2fcitizen_voice/taunt6.ogg
+5 : hl2fcitizen_voice/taunt7.ogg
+5 : hl2fcitizen_voice/taunt8.ogg
+
+[Run away]
+5 : hl2fcitizen_voice/run1.ogg
+5 : hl2fcitizen_voice/run2.ogg
+5 : hl2fcitizen_voice/run3.ogg
+5 : hl2fcitizen_voice/run4.ogg
+5 : hl2fcitizen_voice/run5.ogg
+
+[Stop]
+5 : hl2fcitizen_voice/stop1.ogg
+5 : hl2fcitizen_voice/stop2.ogg
+5 : hl2fcitizen_voice/stop3.ogg
+5 : hl2fcitizen_voice/stop4.ogg
+5 : hl2fcitizen_voice/stop5.ogg
+5 : hl2fcitizen_voice/stop6.ogg
+
+[Dead]
+5 : hl2fcitizen_voice/die1.ogg
+5 : hl2fcitizen_voice/die2.ogg
+5 : hl2fcitizen_voice/die3.ogg
+5 : hl2fcitizen_voice/die4.ogg
+5 : hl2fcitizen_voice/die5.ogg
+5 : hl2fcitizen_voice/die6.ogg
+5 : hl2fcitizen_voice/die7.ogg
+5 : hl2fcitizen_voice/die8.ogg
+5 : hl2fcitizen_voice/die9.ogg

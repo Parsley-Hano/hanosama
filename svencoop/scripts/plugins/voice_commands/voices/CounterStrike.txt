@@ -1,0 +1,87 @@
+[Yes]
+4 : cs_voice/yes1.wav
+4 : cs_voice/yes2.wav
+
+[No]
+4 : cs_voice/no1.wav
+4 : cs_voice/no2.wav
+4 : cs_voice/no3.wav
+
+[Hello]
+4 : cs_voice/hello1.wav
+4 : cs_voice/hello2.wav
+4 : cs_voice/hello3.wav
+
+[Cheer]
+4 : cs_voice/cheer1.wav
+4 : cs_voice/cheer2.wav
+4 : cs_voice/cheer3.wav
+4 : cs_voice/cheer4.wav
+
+[Follow me]
+4 : cs_voice/follow1.wav
+4 : cs_voice/follow2.wav
+4 : cs_voice/follow3.wav
+4 : cs_voice/follow4.wav
+
+[I'm with you]
+4 : cs_voice/withyou1.wav
+4 : cs_voice/withyou2.wav
+4 : cs_voice/withyou3.wav
+4 : cs_voice/withyou4.wav
+
+[Thanks]
+4 : cs_voice/thanks1.wav
+4 : cs_voice/thanks2.wav
+
+[You're welcome]
+4 : cs_voice/welcome1.wav
+4 : cs_voice/welcome2.wav
+4 : cs_voice/welcome3.wav
+4 : cs_voice/welcome4.wav
+4 : cs_voice/welcome5.wav
+
+[Help]
+4 : cs_voice/help1.wav
+4 : cs_voice/help2.wav
+4 : cs_voice/help3.wav
+4 : cs_voice/help4.wav
+
+[Sorry]
+4 : cs_voice/sorry1.wav
+4 : cs_voice/sorry2.wav
+4 : cs_voice/sorry3.wav
+4 : cs_voice/sorry4.wav
+4 : cs_voice/sorry5.wav
+
+[Chit-chat]
+4 : cs_voice/chat1.wav
+4 : cs_voice/chat2.wav
+4 : cs_voice/chat3.wav
+4 : cs_voice/chat4.wav
+4 : cs_voice/chat5.wav
+4 : cs_voice/chat6.wav
+4 : cs_voice/chat7.wav
+
+[Taunt]
+4 : cs_voice/taunt1.wav
+4 : cs_voice/taunt2.wav
+4 : cs_voice/taunt3.wav
+4 : cs_voice/taunt4.wav
+
+[Run away]
+4 : cs_voice/run1.wav
+4 : cs_voice/run2.wav
+4 : cs_voice/run3.wav
+4 : cs_voice/run4.wav
+
+[Stop]
+4 : cs_voice/stop1.wav
+4 : cs_voice/stop2.wav
+
+[Dead]
+4 : cs_voice/die1.wav
+4 : cs_voice/die2.wav
+4 : cs_voice/die3.wav
+4 : cs_voice/die4.wav
+4 : cs_voice/die5.wav

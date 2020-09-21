@@ -1,0 +1,86 @@
+[Yes]
+4 : ssam/yes1.ogg
+4 : ssam/yes2.ogg
+4 : ssam/yes3.ogg
+
+[No]
+4 : ssam/no1.ogg
+4 : ssam/no2.ogg
+4 : ssam/no3.ogg
+
+[Hello]
+4 : ssam/hello1.ogg
+
+[Cheer]
+4 : ssam/cheer1.ogg
+4 : ssam/cheer2.ogg
+4 : ssam/cheer3.ogg
+4 : ssam/cheer4.ogg
+4 : ssam/cheer5.ogg
+
+[Follow me]
+4 : ssam/follow1.ogg
+4 : ssam/follow2.ogg
+4 : ssam/follow3.ogg
+4 : ssam/follow4.ogg
+
+[I'm with you]
+4 : ssam/withyou1.ogg
+4 : ssam/withyou2.ogg
+4 : ssam/withyou3.ogg
+4 : ssam/withyou4.ogg
+
+[Thanks]
+4 : ssam/thanks1.ogg
+4 : ssam/thanks2.ogg
+4 : ssam/thanks3.ogg
+4 : ssam/thanks4.ogg
+
+[You're welcome]
+4 : ssam/welcome1.ogg
+4 : ssam/welcome2.ogg
+4 : ssam/welcome3.ogg
+
+[Help]
+4 : ssam/help1.ogg
+4 : ssam/help2.ogg
+4 : ssam/help3.ogg
+4 : ssam/help4.ogg
+
+[Sorry]
+4 : ssam/sorry1.ogg
+4 : ssam/sorry2.ogg
+4 : ssam/sorry3.ogg
+
+[Chit-chat]
+4 : ssam/chat1.ogg
+4 : ssam/chat2.ogg
+4 : ssam/chat3.ogg
+4 : ssam/chat4.ogg
+
+[Taunt]
+4 : ssam/taunt1.ogg
+4 : ssam/taunt2.ogg
+4 : ssam/taunt3.ogg
+4 : ssam/taunt4.ogg
+4 : ssam/taunt5.ogg
+
+[Run away]
+4 : ssam/run1.ogg
+4 : ssam/run2.ogg
+4 : ssam/run3.ogg
+4 : ssam/run4.ogg
+4 : ssam/run5.ogg
+
+[Stop]
+4 : ssam/stop1.ogg
+4 : ssam/stop2.ogg
+4 : ssam/stop3.ogg
+4 : ssam/stop4.ogg
+
+[Dead]
+4 : ssam/die1.ogg
+4 : ssam/die2.ogg
+4 : ssam/die3.ogg
+4 : ssam/die4.ogg
+4 : ssam/die5.ogg

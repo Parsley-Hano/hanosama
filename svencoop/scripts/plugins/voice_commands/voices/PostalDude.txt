@@ -1,0 +1,93 @@
+[Yes]
+3 : postaldudevoice/yes1.ogg
+3 : postaldudevoice/yes2.ogg
+3 : postaldudevoice/yes3.ogg
+3 : postaldudevoice/yes4.ogg
+
+[No]
+3 : postaldudevoice/no1.ogg
+3 : postaldudevoice/no2.ogg
+3 : postaldudevoice/no3.ogg
+3 : postaldudevoice/no4.ogg
+
+[Hello]
+3 : postaldudevoice/hello1.ogg
+3 : postaldudevoice/hello2.ogg
+3 : postaldudevoice/hello3.ogg
+
+[Cheer]
+3 : postaldudevoice/cheer1.ogg
+3 : postaldudevoice/cheer2.ogg
+3 : postaldudevoice/cheer3.ogg
+3 : postaldudevoice/cheer4.ogg
+3 : postaldudevoice/cheer5.ogg
+
+[Follow me]
+3 : postaldudevoice/follow1.ogg
+3 : postaldudevoice/follow2.ogg
+3 : postaldudevoice/follow3.ogg
+3 : postaldudevoice/follow4.ogg
+3 : postaldudevoice/follow5.ogg
+
+[I'm with you]
+3 : postaldudevoice/withyou1.ogg
+3 : postaldudevoice/withyou2.ogg
+
+[Thanks]
+3 : postaldudevoice/thanks1.ogg
+3 : postaldudevoice/thanks2.ogg
+
+[You're welcome]
+3 : postaldudevoice/welcome1.ogg
+3 : postaldudevoice/welcome2.ogg
+3 : postaldudevoice/welcome3.ogg
+
+[Help]
+3 : postaldudevoice/help1.ogg
+3 : postaldudevoice/help2.ogg
+3 : postaldudevoice/help3.ogg
+3 : postaldudevoice/help4.ogg
+
+[Sorry]
+3 : postaldudevoice/sorry1.ogg
+3 : postaldudevoice/sorry2.ogg
+3 : postaldudevoice/sorry3.ogg
+
+[Chit-chat]
+3 : postaldudevoice/chat1.ogg
+3 : postaldudevoice/chat2.ogg
+3 : postaldudevoice/chat3.ogg
+3 : postaldudevoice/chat4.ogg
+3 : postaldudevoice/chat5.ogg
+3 : postaldudevoice/chat6.ogg
+3 : postaldudevoice/chat7.ogg
+3 : postaldudevoice/chat8.ogg
+
+[Taunt]
+3 : postaldudevoice/taunt1.ogg
+3 : postaldudevoice/taunt2.ogg
+3 : postaldudevoice/taunt3.ogg
+3 : postaldudevoice/taunt4.ogg
+3 : postaldudevoice/taunt5.ogg
+
+[Run away]
+3 : postaldudevoice/run1.ogg
+3 : postaldudevoice/run2.ogg
+3 : postaldudevoice/run3.ogg
+3 : postaldudevoice/run4.ogg
+3 : postaldudevoice/run5.ogg
+
+[Stop]
+3 : postaldudevoice/stop1.ogg
+3 : postaldudevoice/stop2.ogg
+3 : postaldudevoice/stop3.ogg
+3 : postaldudevoice/stop4.ogg
+3 : postaldudevoice/stop5.ogg
+
+[Dead]
+3 : postaldudevoice/die1.ogg
+3 : postaldudevoice/die2.ogg
+3 : postaldudevoice/die3.ogg
+3 : postaldudevoice/die4.ogg
+3 : postaldudevoice/die5.ogg
+3 : postaldudevoice/die6.ogg

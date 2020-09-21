@@ -1,0 +1,96 @@
+[Yes]
+3 : dukenukem_voice/yes1.ogg
+3 : dukenukem_voice/yes2.ogg
+3 : dukenukem_voice/yes3.ogg
+3 : dukenukem_voice/yes4.ogg
+
+[No]
+3 : dukenukem_voice/no1.ogg
+3 : dukenukem_voice/no2.ogg
+3 : dukenukem_voice/no3.ogg
+
+[Hello]
+3 : dukenukem_voice/hello1.ogg
+3 : dukenukem_voice/hello2.ogg
+
+[Cheer]
+3 : dukenukem_voice/cheer1.ogg
+3 : dukenukem_voice/cheer2.ogg
+3 : dukenukem_voice/cheer3.ogg
+3 : dukenukem_voice/cheer4.ogg
+3 : dukenukem_voice/cheer5.ogg
+3 : dukenukem_voice/cheer6.ogg
+
+[Follow me]
+3 : dukenukem_voice/follow1.ogg
+3 : dukenukem_voice/follow2.ogg
+3 : dukenukem_voice/follow3.ogg
+3 : dukenukem_voice/follow4.ogg
+3 : dukenukem_voice/follow5.ogg
+
+[I'm with you]
+3 : dukenukem_voice/withyou1.ogg
+3 : dukenukem_voice/withyou2.ogg
+3 : dukenukem_voice/withyou3.ogg
+
+[Thanks]
+3 : dukenukem_voice/thanks1.ogg
+3 : dukenukem_voice/thanks2.ogg
+3 : dukenukem_voice/thanks3.ogg
+
+[You're welcome]
+3 : dukenukem_voice/welcome1.ogg
+
+[Help]
+3 : dukenukem_voice/help1.ogg
+3 : dukenukem_voice/help2.ogg
+3 : dukenukem_voice/help3.ogg
+
+[Sorry]
+3 : dukenukem_voice/sorry1.ogg
+3 : dukenukem_voice/sorry2.ogg
+3 : dukenukem_voice/sorry3.ogg
+
+[Chit-chat]
+3 : dukenukem_voice/chat1.ogg
+3 : dukenukem_voice/chat2.ogg
+3 : dukenukem_voice/chat3.ogg
+3 : dukenukem_voice/chat4.ogg
+3 : dukenukem_voice/chat5.ogg
+3 : dukenukem_voice/chat6.ogg
+3 : dukenukem_voice/chat7.ogg
+3 : dukenukem_voice/chat8.ogg
+3 : dukenukem_voice/chat9.ogg
+
+[Taunt]
+3 : dukenukem_voice/taunt1.ogg
+3 : dukenukem_voice/taunt2.ogg
+3 : dukenukem_voice/taunt3.ogg
+3 : dukenukem_voice/taunt4.ogg
+3 : dukenukem_voice/taunt5.ogg
+3 : dukenukem_voice/taunt6.ogg
+3 : dukenukem_voice/taunt7.ogg
+3 : dukenukem_voice/taunt8.ogg
+
+[Run away]
+3 : dukenukem_voice/run1.ogg
+3 : dukenukem_voice/run2.ogg
+
+[Stop]
+3 : dukenukem_voice/stop1.ogg
+3 : dukenukem_voice/stop2.ogg
+3 : dukenukem_voice/stop3.ogg
+3 : dukenukem_voice/stop4.ogg
+3 : dukenukem_voice/stop5.ogg
+3 : dukenukem_voice/stop6.ogg
+3 : dukenukem_voice/stop7.ogg
+3 : dukenukem_voice/stop8.ogg
+3 : dukenukem_voice/stop9.ogg
+
+[Dead]
+3 : dukenukem_voice/die1.ogg
+3 : dukenukem_voice/die2.ogg
+3 : dukenukem_voice/die3.ogg
+3 : dukenukem_voice/die4.ogg
+3 : dukenukem_voice/die5.ogg
+3 : dukenukem_voice/die6.ogg

@@ -1,0 +1,1 @@
+../AFBaseExpansions/hatmodels.txt

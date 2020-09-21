@@ -1,0 +1,68 @@
+[Yes]
+4 : drbreen_voice/yes1.mp3
+4 : drbreen_voice/yes2.mp3
+
+[No]
+4 : drbreen_voice/no1.mp3
+4 : drbreen_voice/no2.mp3
+4 : drbreen_voice/no3.mp3
+
+[Hello]
+4 : drbreen_voice/hello1.mp3
+4 : drbreen_voice/hello2.mp3
+4 : drbreen_voice/hello3.mp3
+
+[Cheer]
+4 : drbreen_voice/cheer1.mp3
+
+[Follow me]
+4 : drbreen_voice/follow1.mp3
+
+[I'm with you]
+4 : drbreen_voice/withyou1.mp3
+4 : drbreen_voice/withyou2.mp3
+
+[Thanks]
+4 : drbreen_voice/thanks1.mp3
+
+[You're welcome]
+4 : drbreen_voice/welcome1.mp3
+
+[Help]
+4 : drbreen_voice/help1.mp3
+4 : drbreen_voice/help2.mp3
+
+[Sorry]
+4 : drbreen_voice/sorry1.mp3
+
+[Chit-chat]
+4 : drbreen_voice/chat1.mp3
+4 : drbreen_voice/chat2.mp3
+4 : drbreen_voice/chat3.mp3
+4 : drbreen_voice/chat4.mp3
+4 : drbreen_voice/chat5.mp3
+4 : drbreen_voice/chat6.mp3
+
+[Taunt]
+4 : drbreen_voice/taunt1.mp3
+4 : drbreen_voice/taunt2.mp3
+4 : drbreen_voice/taunt3.mp3
+4 : drbreen_voice/taunt4.mp3
+4 : drbreen_voice/taunt5.mp3
+4 : drbreen_voice/taunt6.mp3
+
+[Run away]
+4 : drbreen_voice/run1.mp3
+4 : drbreen_voice/run2.mp3
+
+[Stop]
+4 : drbreen_voice/stop1.mp3
+4 : drbreen_voice/stop2.mp3
+4 : drbreen_voice/stop3.mp3
+4 : drbreen_voice/stop4.mp3
+4 : drbreen_voice/stop5.mp3
+
+[Dead]
+4 : drbreen_voice/die1.mp3
+4 : drbreen_voice/die2.mp3
+4 : drbreen_voice/die3.mp3

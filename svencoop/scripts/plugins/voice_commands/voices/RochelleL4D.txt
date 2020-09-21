@@ -1,0 +1,109 @@
+[Yes]
+4 : rochelle_l4d/yes1.ogg
+4 : rochelle_l4d/yes2.ogg
+4 : rochelle_l4d/yes3.ogg
+4 : rochelle_l4d/yes4.ogg
+4 : rochelle_l4d/yes5.ogg
+4 : rochelle_l4d/yes6.ogg
+
+[No]
+4 : rochelle_l4d/no1.ogg
+4 : rochelle_l4d/no2.ogg
+4 : rochelle_l4d/no3.ogg
+4 : rochelle_l4d/no4.ogg
+4 : rochelle_l4d/no5.ogg
+4 : rochelle_l4d/no6.ogg
+4 : rochelle_l4d/no7.ogg
+
+[Hello]
+4 : rochelle_l4d/hello1.ogg
+4 : rochelle_l4d/hello2.ogg
+4 : rochelle_l4d/hello3.ogg
+4 : rochelle_l4d/hello4.ogg
+4 : rochelle_l4d/hello5.ogg
+
+[Cheer]
+4 : rochelle_l4d/cheer1.ogg
+4 : rochelle_l4d/cheer2.ogg
+4 : rochelle_l4d/cheer3.ogg
+4 : rochelle_l4d/cheer4.ogg
+4 : rochelle_l4d/cheer5.ogg
+4 : rochelle_l4d/cheer6.ogg
+
+[Follow me]
+4 : rochelle_l4d/follow1.ogg
+4 : rochelle_l4d/follow2.ogg
+4 : rochelle_l4d/follow3.ogg
+4 : rochelle_l4d/follow4.ogg
+4 : rochelle_l4d/follow5.ogg
+
+[I'm with you]
+4 : rochelle_l4d/withyou1.ogg
+4 : rochelle_l4d/withyou2.ogg
+4 : rochelle_l4d/withyou3.ogg
+4 : rochelle_l4d/withyou4.ogg
+
+[Thanks]
+4 : rochelle_l4d/thanks1.ogg
+4 : rochelle_l4d/thanks2.ogg
+4 : rochelle_l4d/thanks3.ogg
+4 : rochelle_l4d/thanks4.ogg
+
+[You're welcome]
+4 : rochelle_l4d/welcome1.ogg
+4 : rochelle_l4d/welcome2.ogg
+4 : rochelle_l4d/welcome3.ogg
+4 : rochelle_l4d/welcome4.ogg
+4 : rochelle_l4d/welcome5.ogg
+
+[Help]
+4 : rochelle_l4d/help1.ogg
+4 : rochelle_l4d/help2.ogg
+4 : rochelle_l4d/help3.ogg
+4 : rochelle_l4d/help4.ogg
+4 : rochelle_l4d/help5.ogg
+4 : rochelle_l4d/help6.ogg
+
+[Sorry]
+4 : rochelle_l4d/sorry1.ogg
+4 : rochelle_l4d/sorry2.ogg
+4 : rochelle_l4d/sorry3.ogg
+4 : rochelle_l4d/sorry4.ogg
+4 : rochelle_l4d/sorry5.ogg
+
+[Chit-chat]
+4 : rochelle_l4d/chat1.ogg
+4 : rochelle_l4d/chat2.ogg
+4 : rochelle_l4d/chat3.ogg
+4 : rochelle_l4d/chat4.ogg
+4 : rochelle_l4d/chat5.ogg
+4 : rochelle_l4d/chat6.ogg
+4 : rochelle_l4d/chat7.ogg
+
+[Taunt]
+4 : rochelle_l4d/taunt1.ogg
+4 : rochelle_l4d/taunt2.ogg
+4 : rochelle_l4d/taunt3.ogg
+4 : rochelle_l4d/taunt4.ogg
+4 : rochelle_l4d/taunt5.ogg
+4 : rochelle_l4d/taunt6.ogg
+
+[Run away]
+4 : rochelle_l4d/run1.ogg
+4 : rochelle_l4d/run2.ogg
+4 : rochelle_l4d/run3.ogg
+4 : rochelle_l4d/run4.ogg
+
+[Stop]
+4 : rochelle_l4d/stop1.ogg
+4 : rochelle_l4d/stop2.ogg
+4 : rochelle_l4d/stop3.ogg
+4 : rochelle_l4d/stop4.ogg
+4 : rochelle_l4d/stop5.ogg
+
+[Dead]
+4 : rochelle_l4d/die1.ogg
+4 : rochelle_l4d/die2.ogg
+4 : rochelle_l4d/die3.ogg
+4 : rochelle_l4d/die4.ogg
+4 : rochelle_l4d/die5.ogg
